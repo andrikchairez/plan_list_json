@@ -393,54 +393,54 @@
 				"ESTIMATED_MONTHLY_COST": 231,
 				"covered": [
 					{
-						"rxcui": "1364447",
+						"rxcui": "Eliquis 5 MG Oral Tablet",
 						"tier": 3,
 						"type": "copay"
 					},
 					{
-						"rxcui": "1545664",
+						"rxcui": "Jardiance 10 MG Oral Tablet",
 						"tier": 3,
 						"type": "copay"
 					},
 					{
-						"rxcui": "197604",
+						"rxcui": "digoxin 125 MCG Oral Tablet",
 						"tier": 2,
 						"type": "copay"
 					},
 					{
-						"rxcui": "2200650",
+						"rxcui": "RYBELSUS 14 MG Oral Tablet",
 						"tier": 3,
 						"type": "copay"
 					},
 					{
-						"rxcui": "349483",
+						"rxcui": "valsartan 40 MG Oral Tablet",
 						"tier": 1,
 						"type": "copay"
 					},
 					{
-						"rxcui": "830845",
+						"rxcui": "dilTIAZem HCl 180 MG 24HR Extended Release Oral Capsule",
 						"tier": 2,
 						"type": "copay"
 					},
 					{
-						"rxcui": "847232",
+						"rxcui": "Lantus 100 UNT/ML in 3 ML Pen Injector",
 						"tier": 3,
 						"type": "copay"
 					},
 					{
-						"rxcui": "860975",
+						"rxcui": "metFORMIN HCl 500 MG 24HR Extended Release Oral Tablet",
 						"tier": 1,
 						"type": "copay"
 					},
 					{
-						"rxcui": "966225",
+						"rxcui": "levothyroxine sodium 150 MCG Oral Tablet",
 						"tier": 1,
 						"type": "copay"
 					}
 				],
 				"uncovered": [
-					"2167557",
-					"252857"
+					"rosuvastatin 10 MG Oral Capsule",
+					"aspirin 81 MG Oral Capsule"
 				]
 			},
 			{
@@ -834,54 +834,54 @@
 				"ESTIMATED_MONTHLY_COST": 30,
 				"covered": [
 					{
-						"rxcui": "1364447",
+						"rxcui": "Eliquis 5 MG Oral Tablet",
 						"tier": 3,
 						"type": "coinsurance"
 					},
 					{
-						"rxcui": "1545664",
+						"rxcui": "Jardiance 10 MG Oral Tablet",
 						"tier": 3,
 						"type": "coinsurance"
 					},
 					{
-						"rxcui": "197604",
+						"rxcui": "digoxin 125 MCG Oral Tablet",
 						"tier": 2,
 						"type": "copay"
 					},
 					{
-						"rxcui": "2200650",
+						"rxcui": "RYBELSUS 14 MG Oral Tablet",
 						"tier": 3,
 						"type": "coinsurance"
 					},
 					{
-						"rxcui": "349483",
+						"rxcui": "valsartan 40 MG Oral Tablet",
 						"tier": 1,
 						"type": "copay"
 					},
 					{
-						"rxcui": "830845",
+						"rxcui": "dilTIAZem HCl 180 MG 24HR Extended Release Oral Capsule",
 						"tier": 2,
 						"type": "copay"
 					},
 					{
-						"rxcui": "847232",
+						"rxcui": "Lantus 100 UNT/ML in 3 ML Pen Injector",
 						"tier": 3,
 						"type": "coinsurance"
 					},
 					{
-						"rxcui": "860975",
+						"rxcui": "metFORMIN HCl 500 MG 24HR Extended Release Oral Tablet",
 						"tier": 1,
 						"type": "copay"
 					},
 					{
-						"rxcui": "966225",
+						"rxcui": "levothyroxine sodium 150 MCG Oral Tablet",
 						"tier": 1,
 						"type": "copay"
 					}
 				],
 				"uncovered": [
-					"2167557",
-					"252857"
+					"rosuvastatin 10 MG Oral Capsule",
+					"aspirin 81 MG Oral Capsule"
 				]
 			},
 			{
@@ -1275,54 +1275,54 @@
 				"ESTIMATED_MONTHLY_COST": 35.9,
 				"covered": [
 					{
-						"rxcui": "1364447",
+						"rxcui": "Eliquis 5 MG Oral Tablet",
 						"tier": 3,
 						"type": "coinsurance"
 					},
 					{
-						"rxcui": "1545664",
+						"rxcui": "Jardiance 10 MG Oral Tablet",
 						"tier": 3,
 						"type": "coinsurance"
 					},
 					{
-						"rxcui": "197604",
+						"rxcui": "digoxin 125 MCG Oral Tablet",
 						"tier": 2,
 						"type": "copay"
 					},
 					{
-						"rxcui": "2200650",
+						"rxcui": "RYBELSUS 14 MG Oral Tablet",
 						"tier": 3,
 						"type": "coinsurance"
 					},
 					{
-						"rxcui": "349483",
+						"rxcui": "valsartan 40 MG Oral Tablet",
 						"tier": 1,
 						"type": "copay"
 					},
 					{
-						"rxcui": "830845",
+						"rxcui": "dilTIAZem HCl 180 MG 24HR Extended Release Oral Capsule",
 						"tier": 2,
 						"type": "copay"
 					},
 					{
-						"rxcui": "847232",
+						"rxcui": "Lantus 100 UNT/ML in 3 ML Pen Injector",
 						"tier": 3,
 						"type": "coinsurance"
 					},
 					{
-						"rxcui": "860975",
+						"rxcui": "metFORMIN HCl 500 MG 24HR Extended Release Oral Tablet",
 						"tier": 1,
 						"type": "copay"
 					},
 					{
-						"rxcui": "966225",
+						"rxcui": "levothyroxine sodium 150 MCG Oral Tablet",
 						"tier": 1,
 						"type": "copay"
 					}
 				],
 				"uncovered": [
-					"2167557",
-					"252857"
+					"rosuvastatin 10 MG Oral Capsule",
+					"aspirin 81 MG Oral Capsule"
 				]
 			},
 			{
@@ -1803,46 +1803,46 @@
 				"ESTIMATED_MONTHLY_COST": 186,
 				"covered": [
 					{
-						"rxcui": "1364447",
+						"rxcui": "Eliquis 5 MG Oral Tablet",
 						"tier": 4,
 						"type": "copay"
 					},
 					{
-						"rxcui": "1545664",
+						"rxcui": "Jardiance 10 MG Oral Tablet",
 						"tier": 3,
 						"type": "copay"
 					},
 					{
-						"rxcui": "197604",
+						"rxcui": "digoxin 125 MCG Oral Tablet",
 						"tier": 2,
 						"type": "copay"
 					},
 					{
-						"rxcui": "349483",
+						"rxcui": "valsartan 40 MG Oral Tablet",
 						"tier": 1,
 						"type": "copay"
 					},
 					{
-						"rxcui": "830845",
+						"rxcui": "dilTIAZem HCl 180 MG 24HR Extended Release Oral Capsule",
 						"tier": 2,
 						"type": "copay"
 					},
 					{
-						"rxcui": "860975",
+						"rxcui": "metFORMIN HCl 500 MG 24HR Extended Release Oral Tablet",
 						"tier": 1,
 						"type": "copay"
 					},
 					{
-						"rxcui": "966225",
+						"rxcui": "levothyroxine sodium 150 MCG Oral Tablet",
 						"tier": 1,
 						"type": "copay"
 					}
 				],
 				"uncovered": [
-					"2200650",
-					"2167557",
-					"847232",
-					"252857"
+					"RYBELSUS 14 MG Oral Tablet",
+					"rosuvastatin 10 MG Oral Capsule",
+					"Lantus 100 UNT/ML in 3 ML Pen Injector",
+					"aspirin 81 MG Oral Capsule"
 				]
 			},
 			{
@@ -2323,46 +2323,46 @@
 				"ESTIMATED_MONTHLY_COST": 179,
 				"covered": [
 					{
-						"rxcui": "1364447",
+						"rxcui": "Eliquis 5 MG Oral Tablet",
 						"tier": 4,
 						"type": "copay"
 					},
 					{
-						"rxcui": "1545664",
+						"rxcui": "Jardiance 10 MG Oral Tablet",
 						"tier": 3,
 						"type": "copay"
 					},
 					{
-						"rxcui": "197604",
+						"rxcui": "digoxin 125 MCG Oral Tablet",
 						"tier": 2,
 						"type": "copay"
 					},
 					{
-						"rxcui": "349483",
+						"rxcui": "valsartan 40 MG Oral Tablet",
 						"tier": 1,
 						"type": "copay"
 					},
 					{
-						"rxcui": "830845",
+						"rxcui": "dilTIAZem HCl 180 MG 24HR Extended Release Oral Capsule",
 						"tier": 2,
 						"type": "copay"
 					},
 					{
-						"rxcui": "860975",
+						"rxcui": "metFORMIN HCl 500 MG 24HR Extended Release Oral Tablet",
 						"tier": 1,
 						"type": "copay"
 					},
 					{
-						"rxcui": "966225",
+						"rxcui": "levothyroxine sodium 150 MCG Oral Tablet",
 						"tier": 1,
 						"type": "copay"
 					}
 				],
 				"uncovered": [
-					"2200650",
-					"2167557",
-					"847232",
-					"252857"
+					"RYBELSUS 14 MG Oral Tablet",
+					"rosuvastatin 10 MG Oral Capsule",
+					"Lantus 100 UNT/ML in 3 ML Pen Injector",
+					"aspirin 81 MG Oral Capsule"
 				]
 			},
 			{
@@ -2611,54 +2611,54 @@
 				"ESTIMATED_MONTHLY_COST": 257.6,
 				"covered": [
 					{
-						"rxcui": "1364447",
+						"rxcui": "Eliquis 5 MG Oral Tablet",
 						"tier": 3,
 						"type": "copay"
 					},
 					{
-						"rxcui": "1545664",
+						"rxcui": "Jardiance 10 MG Oral Tablet",
 						"tier": 3,
 						"type": "copay"
 					},
 					{
-						"rxcui": "197604",
+						"rxcui": "digoxin 125 MCG Oral Tablet",
 						"tier": 2,
 						"type": "copay"
 					},
 					{
-						"rxcui": "2200650",
+						"rxcui": "RYBELSUS 14 MG Oral Tablet",
 						"tier": 3,
 						"type": "copay"
 					},
 					{
-						"rxcui": "349483",
+						"rxcui": "valsartan 40 MG Oral Tablet",
 						"tier": 1,
 						"type": "copay"
 					},
 					{
-						"rxcui": "830845",
+						"rxcui": "dilTIAZem HCl 180 MG 24HR Extended Release Oral Capsule",
 						"tier": 2,
 						"type": "copay"
 					},
 					{
-						"rxcui": "847232",
+						"rxcui": "Lantus 100 UNT/ML in 3 ML Pen Injector",
 						"tier": 3,
 						"type": "copay"
 					},
 					{
-						"rxcui": "860975",
+						"rxcui": "metFORMIN HCl 500 MG 24HR Extended Release Oral Tablet",
 						"tier": 1,
 						"type": "copay"
 					},
 					{
-						"rxcui": "966225",
+						"rxcui": "levothyroxine sodium 150 MCG Oral Tablet",
 						"tier": 1,
 						"type": "copay"
 					}
 				],
 				"uncovered": [
-					"2167557",
-					"252857"
+					"rosuvastatin 10 MG Oral Capsule",
+					"aspirin 81 MG Oral Capsule"
 				]
 			},
 			{
@@ -2965,54 +2965,54 @@
 				"ESTIMATED_MONTHLY_COST": 29.7,
 				"covered": [
 					{
-						"rxcui": "1364447",
+						"rxcui": "Eliquis 5 MG Oral Tablet",
 						"tier": 3,
 						"type": "coinsurance"
 					},
 					{
-						"rxcui": "1545664",
+						"rxcui": "Jardiance 10 MG Oral Tablet",
 						"tier": 3,
 						"type": "coinsurance"
 					},
 					{
-						"rxcui": "197604",
+						"rxcui": "digoxin 125 MCG Oral Tablet",
 						"tier": 1,
 						"type": "coinsurance"
 					},
 					{
-						"rxcui": "2200650",
+						"rxcui": "RYBELSUS 14 MG Oral Tablet",
 						"tier": 3,
 						"type": "coinsurance"
 					},
 					{
-						"rxcui": "349483",
+						"rxcui": "valsartan 40 MG Oral Tablet",
 						"tier": 1,
 						"type": "coinsurance"
 					},
 					{
-						"rxcui": "830845",
+						"rxcui": "dilTIAZem HCl 180 MG 24HR Extended Release Oral Capsule",
 						"tier": 2,
 						"type": "coinsurance"
 					},
 					{
-						"rxcui": "847232",
+						"rxcui": "Lantus 100 UNT/ML in 3 ML Pen Injector",
 						"tier": 3,
 						"type": "coinsurance"
 					},
 					{
-						"rxcui": "860975",
+						"rxcui": "metFORMIN HCl 500 MG 24HR Extended Release Oral Tablet",
 						"tier": 1,
 						"type": "coinsurance"
 					},
 					{
-						"rxcui": "966225",
+						"rxcui": "levothyroxine sodium 150 MCG Oral Tablet",
 						"tier": 1,
 						"type": "coinsurance"
 					}
 				],
 				"uncovered": [
-					"2167557",
-					"252857"
+					"rosuvastatin 10 MG Oral Capsule",
+					"aspirin 81 MG Oral Capsule"
 				]
 			},
 			{
@@ -3406,54 +3406,54 @@
 				"ESTIMATED_MONTHLY_COST": 0,
 				"covered": [
 					{
-						"rxcui": "1364447",
+						"rxcui": "Eliquis 5 MG Oral Tablet",
 						"tier": 3,
 						"type": "coinsurance"
 					},
 					{
-						"rxcui": "1545664",
+						"rxcui": "Jardiance 10 MG Oral Tablet",
 						"tier": 2,
 						"type": "copay"
 					},
 					{
-						"rxcui": "197604",
+						"rxcui": "digoxin 125 MCG Oral Tablet",
 						"tier": 2,
 						"type": "copay"
 					},
 					{
-						"rxcui": "2200650",
+						"rxcui": "RYBELSUS 14 MG Oral Tablet",
 						"tier": 3,
 						"type": "coinsurance"
 					},
 					{
-						"rxcui": "349483",
+						"rxcui": "valsartan 40 MG Oral Tablet",
 						"tier": 1,
 						"type": "copay"
 					},
 					{
-						"rxcui": "830845",
+						"rxcui": "dilTIAZem HCl 180 MG 24HR Extended Release Oral Capsule",
 						"tier": 1,
 						"type": "copay"
 					},
 					{
-						"rxcui": "847232",
+						"rxcui": "Lantus 100 UNT/ML in 3 ML Pen Injector",
 						"tier": 3,
 						"type": "coinsurance"
 					},
 					{
-						"rxcui": "860975",
+						"rxcui": "metFORMIN HCl 500 MG 24HR Extended Release Oral Tablet",
 						"tier": 1,
 						"type": "copay"
 					},
 					{
-						"rxcui": "966225",
+						"rxcui": "levothyroxine sodium 150 MCG Oral Tablet",
 						"tier": 1,
 						"type": "copay"
 					}
 				],
 				"uncovered": [
-					"2167557",
-					"252857"
+					"rosuvastatin 10 MG Oral Capsule",
+					"aspirin 81 MG Oral Capsule"
 				]
 			},
 			{
@@ -3847,54 +3847,54 @@
 				"ESTIMATED_MONTHLY_COST": 178,
 				"covered": [
 					{
-						"rxcui": "1364447",
+						"rxcui": "Eliquis 5 MG Oral Tablet",
 						"tier": 3,
 						"type": "copay"
 					},
 					{
-						"rxcui": "1545664",
+						"rxcui": "Jardiance 10 MG Oral Tablet",
 						"tier": 3,
 						"type": "copay"
 					},
 					{
-						"rxcui": "197604",
+						"rxcui": "digoxin 125 MCG Oral Tablet",
 						"tier": 2,
 						"type": "copay"
 					},
 					{
-						"rxcui": "2200650",
+						"rxcui": "RYBELSUS 14 MG Oral Tablet",
 						"tier": 3,
 						"type": "copay"
 					},
 					{
-						"rxcui": "349483",
+						"rxcui": "valsartan 40 MG Oral Tablet",
 						"tier": 2,
 						"type": "copay"
 					},
 					{
-						"rxcui": "830845",
+						"rxcui": "dilTIAZem HCl 180 MG 24HR Extended Release Oral Capsule",
 						"tier": 2,
 						"type": "copay"
 					},
 					{
-						"rxcui": "847232",
+						"rxcui": "Lantus 100 UNT/ML in 3 ML Pen Injector",
 						"tier": 3,
 						"type": "copay"
 					},
 					{
-						"rxcui": "860975",
+						"rxcui": "metFORMIN HCl 500 MG 24HR Extended Release Oral Tablet",
 						"tier": 1,
 						"type": "copay"
 					},
 					{
-						"rxcui": "966225",
+						"rxcui": "levothyroxine sodium 150 MCG Oral Tablet",
 						"tier": 1,
 						"type": "copay"
 					}
 				],
 				"uncovered": [
-					"2167557",
-					"252857"
+					"rosuvastatin 10 MG Oral Capsule",
+					"aspirin 81 MG Oral Capsule"
 				]
 			},
 			{
@@ -4288,54 +4288,54 @@
 				"ESTIMATED_MONTHLY_COST": 149,
 				"covered": [
 					{
-						"rxcui": "1364447",
+						"rxcui": "Eliquis 5 MG Oral Tablet",
 						"tier": 3,
 						"type": "copay"
 					},
 					{
-						"rxcui": "1545664",
+						"rxcui": "Jardiance 10 MG Oral Tablet",
 						"tier": 3,
 						"type": "copay"
 					},
 					{
-						"rxcui": "197604",
+						"rxcui": "digoxin 125 MCG Oral Tablet",
 						"tier": 2,
 						"type": "copay"
 					},
 					{
-						"rxcui": "2200650",
+						"rxcui": "RYBELSUS 14 MG Oral Tablet",
 						"tier": 3,
 						"type": "copay"
 					},
 					{
-						"rxcui": "349483",
+						"rxcui": "valsartan 40 MG Oral Tablet",
 						"tier": 2,
 						"type": "copay"
 					},
 					{
-						"rxcui": "830845",
+						"rxcui": "dilTIAZem HCl 180 MG 24HR Extended Release Oral Capsule",
 						"tier": 2,
 						"type": "copay"
 					},
 					{
-						"rxcui": "847232",
+						"rxcui": "Lantus 100 UNT/ML in 3 ML Pen Injector",
 						"tier": 3,
 						"type": "copay"
 					},
 					{
-						"rxcui": "860975",
+						"rxcui": "metFORMIN HCl 500 MG 24HR Extended Release Oral Tablet",
 						"tier": 1,
 						"type": "copay"
 					},
 					{
-						"rxcui": "966225",
+						"rxcui": "levothyroxine sodium 150 MCG Oral Tablet",
 						"tier": 1,
 						"type": "copay"
 					}
 				],
 				"uncovered": [
-					"2167557",
-					"252857"
+					"rosuvastatin 10 MG Oral Capsule",
+					"aspirin 81 MG Oral Capsule"
 				]
 			},
 			{
@@ -4439,54 +4439,54 @@
 				"ESTIMATED_MONTHLY_COST": 29.7,
 				"covered": [
 					{
-						"rxcui": "1364447",
+						"rxcui": "Eliquis 5 MG Oral Tablet",
 						"tier": 1,
 						"type": "coinsurance"
 					},
 					{
-						"rxcui": "1545664",
+						"rxcui": "Jardiance 10 MG Oral Tablet",
 						"tier": 1,
 						"type": "coinsurance"
 					},
 					{
-						"rxcui": "197604",
+						"rxcui": "digoxin 125 MCG Oral Tablet",
 						"tier": 1,
 						"type": "coinsurance"
 					},
 					{
-						"rxcui": "2200650",
+						"rxcui": "RYBELSUS 14 MG Oral Tablet",
 						"tier": 1,
 						"type": "coinsurance"
 					},
 					{
-						"rxcui": "349483",
+						"rxcui": "valsartan 40 MG Oral Tablet",
 						"tier": 1,
 						"type": "coinsurance"
 					},
 					{
-						"rxcui": "830845",
+						"rxcui": "dilTIAZem HCl 180 MG 24HR Extended Release Oral Capsule",
 						"tier": 1,
 						"type": "coinsurance"
 					},
 					{
-						"rxcui": "847232",
+						"rxcui": "Lantus 100 UNT/ML in 3 ML Pen Injector",
 						"tier": 1,
 						"type": "coinsurance"
 					},
 					{
-						"rxcui": "860975",
+						"rxcui": "metFORMIN HCl 500 MG 24HR Extended Release Oral Tablet",
 						"tier": 1,
 						"type": "coinsurance"
 					},
 					{
-						"rxcui": "966225",
+						"rxcui": "levothyroxine sodium 150 MCG Oral Tablet",
 						"tier": 1,
 						"type": "coinsurance"
 					}
 				],
 				"uncovered": [
-					"2167557",
-					"252857"
+					"rosuvastatin 10 MG Oral Capsule",
+					"aspirin 81 MG Oral Capsule"
 				]
 			},
 			{
@@ -4880,54 +4880,54 @@
 				"ESTIMATED_MONTHLY_COST": 180,
 				"covered": [
 					{
-						"rxcui": "1364447",
+						"rxcui": "Eliquis 5 MG Oral Tablet",
 						"tier": 3,
 						"type": "copay"
 					},
 					{
-						"rxcui": "1545664",
+						"rxcui": "Jardiance 10 MG Oral Tablet",
 						"tier": 3,
 						"type": "copay"
 					},
 					{
-						"rxcui": "197604",
+						"rxcui": "digoxin 125 MCG Oral Tablet",
 						"tier": 1,
 						"type": "copay"
 					},
 					{
-						"rxcui": "2200650",
+						"rxcui": "RYBELSUS 14 MG Oral Tablet",
 						"tier": 3,
 						"type": "copay"
 					},
 					{
-						"rxcui": "349483",
+						"rxcui": "valsartan 40 MG Oral Tablet",
 						"tier": 1,
 						"type": "copay"
 					},
 					{
-						"rxcui": "830845",
+						"rxcui": "dilTIAZem HCl 180 MG 24HR Extended Release Oral Capsule",
 						"tier": 1,
 						"type": "copay"
 					},
 					{
-						"rxcui": "847232",
+						"rxcui": "Lantus 100 UNT/ML in 3 ML Pen Injector",
 						"tier": 3,
 						"type": "copay"
 					},
 					{
-						"rxcui": "860975",
+						"rxcui": "metFORMIN HCl 500 MG 24HR Extended Release Oral Tablet",
 						"tier": 1,
 						"type": "copay"
 					},
 					{
-						"rxcui": "966225",
+						"rxcui": "levothyroxine sodium 150 MCG Oral Tablet",
 						"tier": 1,
 						"type": "copay"
 					}
 				],
 				"uncovered": [
-					"2167557",
-					"252857"
+					"rosuvastatin 10 MG Oral Capsule",
+					"aspirin 81 MG Oral Capsule"
 				]
 			},
 			{
@@ -5321,54 +5321,54 @@
 				"ESTIMATED_MONTHLY_COST": 180,
 				"covered": [
 					{
-						"rxcui": "1364447",
+						"rxcui": "Eliquis 5 MG Oral Tablet",
 						"tier": 3,
 						"type": "copay"
 					},
 					{
-						"rxcui": "1545664",
+						"rxcui": "Jardiance 10 MG Oral Tablet",
 						"tier": 3,
 						"type": "copay"
 					},
 					{
-						"rxcui": "197604",
+						"rxcui": "digoxin 125 MCG Oral Tablet",
 						"tier": 1,
 						"type": "copay"
 					},
 					{
-						"rxcui": "2200650",
+						"rxcui": "RYBELSUS 14 MG Oral Tablet",
 						"tier": 3,
 						"type": "copay"
 					},
 					{
-						"rxcui": "349483",
+						"rxcui": "valsartan 40 MG Oral Tablet",
 						"tier": 1,
 						"type": "copay"
 					},
 					{
-						"rxcui": "830845",
+						"rxcui": "dilTIAZem HCl 180 MG 24HR Extended Release Oral Capsule",
 						"tier": 1,
 						"type": "copay"
 					},
 					{
-						"rxcui": "847232",
+						"rxcui": "Lantus 100 UNT/ML in 3 ML Pen Injector",
 						"tier": 3,
 						"type": "copay"
 					},
 					{
-						"rxcui": "860975",
+						"rxcui": "metFORMIN HCl 500 MG 24HR Extended Release Oral Tablet",
 						"tier": 1,
 						"type": "copay"
 					},
 					{
-						"rxcui": "966225",
+						"rxcui": "levothyroxine sodium 150 MCG Oral Tablet",
 						"tier": 1,
 						"type": "copay"
 					}
 				],
 				"uncovered": [
-					"2167557",
-					"252857"
+					"rosuvastatin 10 MG Oral Capsule",
+					"aspirin 81 MG Oral Capsule"
 				]
 			},
 			{
@@ -5849,54 +5849,54 @@
 				"ESTIMATED_MONTHLY_COST": 176,
 				"covered": [
 					{
-						"rxcui": "1364447",
+						"rxcui": "Eliquis 5 MG Oral Tablet",
 						"tier": 3,
 						"type": "copay"
 					},
 					{
-						"rxcui": "1545664",
+						"rxcui": "Jardiance 10 MG Oral Tablet",
 						"tier": 3,
 						"type": "copay"
 					},
 					{
-						"rxcui": "197604",
+						"rxcui": "digoxin 125 MCG Oral Tablet",
 						"tier": 2,
 						"type": "copay"
 					},
 					{
-						"rxcui": "2200650",
+						"rxcui": "RYBELSUS 14 MG Oral Tablet",
 						"tier": 3,
 						"type": "copay"
 					},
 					{
-						"rxcui": "349483",
+						"rxcui": "valsartan 40 MG Oral Tablet",
 						"tier": 6,
 						"type": "copay"
 					},
 					{
-						"rxcui": "830845",
+						"rxcui": "dilTIAZem HCl 180 MG 24HR Extended Release Oral Capsule",
 						"tier": 2,
 						"type": "copay"
 					},
 					{
-						"rxcui": "847232",
+						"rxcui": "Lantus 100 UNT/ML in 3 ML Pen Injector",
 						"tier": 3,
 						"type": "copay"
 					},
 					{
-						"rxcui": "860975",
+						"rxcui": "metFORMIN HCl 500 MG 24HR Extended Release Oral Tablet",
 						"tier": 6,
 						"type": "copay"
 					},
 					{
-						"rxcui": "966225",
+						"rxcui": "levothyroxine sodium 150 MCG Oral Tablet",
 						"tier": 1,
 						"type": "copay"
 					}
 				],
 				"uncovered": [
-					"2167557",
-					"252857"
+					"rosuvastatin 10 MG Oral Capsule",
+					"aspirin 81 MG Oral Capsule"
 				]
 			},
 			{
@@ -6377,54 +6377,54 @@
 				"ESTIMATED_MONTHLY_COST": 130,
 				"covered": [
 					{
-						"rxcui": "1364447",
+						"rxcui": "Eliquis 5 MG Oral Tablet",
 						"tier": 3,
 						"type": "copay"
 					},
 					{
-						"rxcui": "1545664",
+						"rxcui": "Jardiance 10 MG Oral Tablet",
 						"tier": 3,
 						"type": "copay"
 					},
 					{
-						"rxcui": "197604",
+						"rxcui": "digoxin 125 MCG Oral Tablet",
 						"tier": 2,
 						"type": "copay"
 					},
 					{
-						"rxcui": "2200650",
+						"rxcui": "RYBELSUS 14 MG Oral Tablet",
 						"tier": 3,
 						"type": "copay"
 					},
 					{
-						"rxcui": "349483",
+						"rxcui": "valsartan 40 MG Oral Tablet",
 						"tier": 6,
 						"type": "copay"
 					},
 					{
-						"rxcui": "830845",
+						"rxcui": "dilTIAZem HCl 180 MG 24HR Extended Release Oral Capsule",
 						"tier": 2,
 						"type": "copay"
 					},
 					{
-						"rxcui": "847232",
+						"rxcui": "Lantus 100 UNT/ML in 3 ML Pen Injector",
 						"tier": 3,
 						"type": "copay"
 					},
 					{
-						"rxcui": "860975",
+						"rxcui": "metFORMIN HCl 500 MG 24HR Extended Release Oral Tablet",
 						"tier": 6,
 						"type": "copay"
 					},
 					{
-						"rxcui": "966225",
+						"rxcui": "levothyroxine sodium 150 MCG Oral Tablet",
 						"tier": 1,
 						"type": "copay"
 					}
 				],
 				"uncovered": [
-					"2167557",
-					"252857"
+					"rosuvastatin 10 MG Oral Capsule",
+					"aspirin 81 MG Oral Capsule"
 				]
 			},
 			{
@@ -6905,54 +6905,54 @@
 				"ESTIMATED_MONTHLY_COST": 176,
 				"covered": [
 					{
-						"rxcui": "1364447",
+						"rxcui": "Eliquis 5 MG Oral Tablet",
 						"tier": 3,
 						"type": "copay"
 					},
 					{
-						"rxcui": "1545664",
+						"rxcui": "Jardiance 10 MG Oral Tablet",
 						"tier": 3,
 						"type": "copay"
 					},
 					{
-						"rxcui": "197604",
+						"rxcui": "digoxin 125 MCG Oral Tablet",
 						"tier": 2,
 						"type": "copay"
 					},
 					{
-						"rxcui": "2200650",
+						"rxcui": "RYBELSUS 14 MG Oral Tablet",
 						"tier": 3,
 						"type": "copay"
 					},
 					{
-						"rxcui": "349483",
+						"rxcui": "valsartan 40 MG Oral Tablet",
 						"tier": 6,
 						"type": "copay"
 					},
 					{
-						"rxcui": "830845",
+						"rxcui": "dilTIAZem HCl 180 MG 24HR Extended Release Oral Capsule",
 						"tier": 2,
 						"type": "copay"
 					},
 					{
-						"rxcui": "847232",
+						"rxcui": "Lantus 100 UNT/ML in 3 ML Pen Injector",
 						"tier": 3,
 						"type": "copay"
 					},
 					{
-						"rxcui": "860975",
+						"rxcui": "metFORMIN HCl 500 MG 24HR Extended Release Oral Tablet",
 						"tier": 6,
 						"type": "copay"
 					},
 					{
-						"rxcui": "966225",
+						"rxcui": "levothyroxine sodium 150 MCG Oral Tablet",
 						"tier": 1,
 						"type": "copay"
 					}
 				],
 				"uncovered": [
-					"2167557",
-					"252857"
+					"rosuvastatin 10 MG Oral Capsule",
+					"aspirin 81 MG Oral Capsule"
 				]
 			},
 			{
@@ -7433,54 +7433,54 @@
 				"ESTIMATED_MONTHLY_COST": 172,
 				"covered": [
 					{
-						"rxcui": "1364447",
+						"rxcui": "Eliquis 5 MG Oral Tablet",
 						"tier": 3,
 						"type": "copay"
 					},
 					{
-						"rxcui": "1545664",
+						"rxcui": "Jardiance 10 MG Oral Tablet",
 						"tier": 3,
 						"type": "copay"
 					},
 					{
-						"rxcui": "197604",
+						"rxcui": "digoxin 125 MCG Oral Tablet",
 						"tier": 2,
 						"type": "copay"
 					},
 					{
-						"rxcui": "2200650",
+						"rxcui": "RYBELSUS 14 MG Oral Tablet",
 						"tier": 3,
 						"type": "copay"
 					},
 					{
-						"rxcui": "349483",
+						"rxcui": "valsartan 40 MG Oral Tablet",
 						"tier": 6,
 						"type": "copay"
 					},
 					{
-						"rxcui": "830845",
+						"rxcui": "dilTIAZem HCl 180 MG 24HR Extended Release Oral Capsule",
 						"tier": 2,
 						"type": "copay"
 					},
 					{
-						"rxcui": "847232",
+						"rxcui": "Lantus 100 UNT/ML in 3 ML Pen Injector",
 						"tier": 3,
 						"type": "copay"
 					},
 					{
-						"rxcui": "860975",
+						"rxcui": "metFORMIN HCl 500 MG 24HR Extended Release Oral Tablet",
 						"tier": 6,
 						"type": "copay"
 					},
 					{
-						"rxcui": "966225",
+						"rxcui": "levothyroxine sodium 150 MCG Oral Tablet",
 						"tier": 1,
 						"type": "copay"
 					}
 				],
 				"uncovered": [
-					"2167557",
-					"252857"
+					"rosuvastatin 10 MG Oral Capsule",
+					"aspirin 81 MG Oral Capsule"
 				]
 			},
 			{
@@ -7584,54 +7584,54 @@
 				"ESTIMATED_MONTHLY_COST": 29.7,
 				"covered": [
 					{
-						"rxcui": "1364447",
+						"rxcui": "Eliquis 5 MG Oral Tablet",
 						"tier": 1,
 						"type": "coinsurance"
 					},
 					{
-						"rxcui": "1545664",
+						"rxcui": "Jardiance 10 MG Oral Tablet",
 						"tier": 1,
 						"type": "coinsurance"
 					},
 					{
-						"rxcui": "197604",
+						"rxcui": "digoxin 125 MCG Oral Tablet",
 						"tier": 1,
 						"type": "coinsurance"
 					},
 					{
-						"rxcui": "2200650",
+						"rxcui": "RYBELSUS 14 MG Oral Tablet",
 						"tier": 1,
 						"type": "coinsurance"
 					},
 					{
-						"rxcui": "349483",
+						"rxcui": "valsartan 40 MG Oral Tablet",
 						"tier": 1,
 						"type": "coinsurance"
 					},
 					{
-						"rxcui": "830845",
+						"rxcui": "dilTIAZem HCl 180 MG 24HR Extended Release Oral Capsule",
 						"tier": 1,
 						"type": "coinsurance"
 					},
 					{
-						"rxcui": "847232",
+						"rxcui": "Lantus 100 UNT/ML in 3 ML Pen Injector",
 						"tier": 1,
 						"type": "coinsurance"
 					},
 					{
-						"rxcui": "860975",
+						"rxcui": "metFORMIN HCl 500 MG 24HR Extended Release Oral Tablet",
 						"tier": 1,
 						"type": "coinsurance"
 					},
 					{
-						"rxcui": "966225",
+						"rxcui": "levothyroxine sodium 150 MCG Oral Tablet",
 						"tier": 1,
 						"type": "coinsurance"
 					}
 				],
 				"uncovered": [
-					"2167557",
-					"252857"
+					"rosuvastatin 10 MG Oral Capsule",
+					"aspirin 81 MG Oral Capsule"
 				]
 			},
 			{
@@ -7735,54 +7735,54 @@
 				"ESTIMATED_MONTHLY_COST": 18.1,
 				"covered": [
 					{
-						"rxcui": "1364447",
+						"rxcui": "Eliquis 5 MG Oral Tablet",
 						"tier": 1,
 						"type": "coinsurance"
 					},
 					{
-						"rxcui": "1545664",
+						"rxcui": "Jardiance 10 MG Oral Tablet",
 						"tier": 1,
 						"type": "coinsurance"
 					},
 					{
-						"rxcui": "197604",
+						"rxcui": "digoxin 125 MCG Oral Tablet",
 						"tier": 1,
 						"type": "coinsurance"
 					},
 					{
-						"rxcui": "2200650",
+						"rxcui": "RYBELSUS 14 MG Oral Tablet",
 						"tier": 1,
 						"type": "coinsurance"
 					},
 					{
-						"rxcui": "349483",
+						"rxcui": "valsartan 40 MG Oral Tablet",
 						"tier": 1,
 						"type": "coinsurance"
 					},
 					{
-						"rxcui": "830845",
+						"rxcui": "dilTIAZem HCl 180 MG 24HR Extended Release Oral Capsule",
 						"tier": 1,
 						"type": "coinsurance"
 					},
 					{
-						"rxcui": "847232",
+						"rxcui": "Lantus 100 UNT/ML in 3 ML Pen Injector",
 						"tier": 1,
 						"type": "coinsurance"
 					},
 					{
-						"rxcui": "860975",
+						"rxcui": "metFORMIN HCl 500 MG 24HR Extended Release Oral Tablet",
 						"tier": 1,
 						"type": "coinsurance"
 					},
 					{
-						"rxcui": "966225",
+						"rxcui": "levothyroxine sodium 150 MCG Oral Tablet",
 						"tier": 1,
 						"type": "coinsurance"
 					}
 				],
 				"uncovered": [
-					"2167557",
-					"252857"
+					"rosuvastatin 10 MG Oral Capsule",
+					"aspirin 81 MG Oral Capsule"
 				]
 			},
 			{
@@ -7886,54 +7886,54 @@
 				"ESTIMATED_MONTHLY_COST": 24.1,
 				"covered": [
 					{
-						"rxcui": "1364447",
+						"rxcui": "Eliquis 5 MG Oral Tablet",
 						"tier": 1,
 						"type": "coinsurance"
 					},
 					{
-						"rxcui": "1545664",
+						"rxcui": "Jardiance 10 MG Oral Tablet",
 						"tier": 1,
 						"type": "coinsurance"
 					},
 					{
-						"rxcui": "197604",
+						"rxcui": "digoxin 125 MCG Oral Tablet",
 						"tier": 1,
 						"type": "coinsurance"
 					},
 					{
-						"rxcui": "2200650",
+						"rxcui": "RYBELSUS 14 MG Oral Tablet",
 						"tier": 1,
 						"type": "coinsurance"
 					},
 					{
-						"rxcui": "349483",
+						"rxcui": "valsartan 40 MG Oral Tablet",
 						"tier": 1,
 						"type": "coinsurance"
 					},
 					{
-						"rxcui": "830845",
+						"rxcui": "dilTIAZem HCl 180 MG 24HR Extended Release Oral Capsule",
 						"tier": 1,
 						"type": "coinsurance"
 					},
 					{
-						"rxcui": "847232",
+						"rxcui": "Lantus 100 UNT/ML in 3 ML Pen Injector",
 						"tier": 1,
 						"type": "coinsurance"
 					},
 					{
-						"rxcui": "860975",
+						"rxcui": "metFORMIN HCl 500 MG 24HR Extended Release Oral Tablet",
 						"tier": 1,
 						"type": "coinsurance"
 					},
 					{
-						"rxcui": "966225",
+						"rxcui": "levothyroxine sodium 150 MCG Oral Tablet",
 						"tier": 1,
 						"type": "coinsurance"
 					}
 				],
 				"uncovered": [
-					"2167557",
-					"252857"
+					"rosuvastatin 10 MG Oral Capsule",
+					"aspirin 81 MG Oral Capsule"
 				]
 			},
 			{
@@ -8414,54 +8414,54 @@
 				"ESTIMATED_MONTHLY_COST": 30,
 				"covered": [
 					{
-						"rxcui": "1364447",
+						"rxcui": "Eliquis 5 MG Oral Tablet",
 						"tier": 3,
 						"type": "coinsurance"
 					},
 					{
-						"rxcui": "1545664",
+						"rxcui": "Jardiance 10 MG Oral Tablet",
 						"tier": 3,
 						"type": "coinsurance"
 					},
 					{
-						"rxcui": "197604",
+						"rxcui": "digoxin 125 MCG Oral Tablet",
 						"tier": 2,
 						"type": "copay"
 					},
 					{
-						"rxcui": "2200650",
+						"rxcui": "RYBELSUS 14 MG Oral Tablet",
 						"tier": 3,
 						"type": "coinsurance"
 					},
 					{
-						"rxcui": "349483",
+						"rxcui": "valsartan 40 MG Oral Tablet",
 						"tier": 6,
 						"type": "copay"
 					},
 					{
-						"rxcui": "830845",
+						"rxcui": "dilTIAZem HCl 180 MG 24HR Extended Release Oral Capsule",
 						"tier": 2,
 						"type": "copay"
 					},
 					{
-						"rxcui": "847232",
+						"rxcui": "Lantus 100 UNT/ML in 3 ML Pen Injector",
 						"tier": 3,
 						"type": "coinsurance"
 					},
 					{
-						"rxcui": "860975",
+						"rxcui": "metFORMIN HCl 500 MG 24HR Extended Release Oral Tablet",
 						"tier": 6,
 						"type": "copay"
 					},
 					{
-						"rxcui": "966225",
+						"rxcui": "levothyroxine sodium 150 MCG Oral Tablet",
 						"tier": 1,
 						"type": "copay"
 					}
 				],
 				"uncovered": [
-					"2167557",
-					"252857"
+					"rosuvastatin 10 MG Oral Capsule",
+					"aspirin 81 MG Oral Capsule"
 				]
 			},
 			{
@@ -8942,54 +8942,54 @@
 				"ESTIMATED_MONTHLY_COST": 140,
 				"covered": [
 					{
-						"rxcui": "1364447",
+						"rxcui": "Eliquis 5 MG Oral Tablet",
 						"tier": 3,
 						"type": "copay"
 					},
 					{
-						"rxcui": "1545664",
+						"rxcui": "Jardiance 10 MG Oral Tablet",
 						"tier": 3,
 						"type": "copay"
 					},
 					{
-						"rxcui": "197604",
+						"rxcui": "digoxin 125 MCG Oral Tablet",
 						"tier": 2,
 						"type": "copay"
 					},
 					{
-						"rxcui": "2200650",
+						"rxcui": "RYBELSUS 14 MG Oral Tablet",
 						"tier": 3,
 						"type": "copay"
 					},
 					{
-						"rxcui": "349483",
+						"rxcui": "valsartan 40 MG Oral Tablet",
 						"tier": 6,
 						"type": "copay"
 					},
 					{
-						"rxcui": "830845",
+						"rxcui": "dilTIAZem HCl 180 MG 24HR Extended Release Oral Capsule",
 						"tier": 2,
 						"type": "copay"
 					},
 					{
-						"rxcui": "847232",
+						"rxcui": "Lantus 100 UNT/ML in 3 ML Pen Injector",
 						"tier": 3,
 						"type": "copay"
 					},
 					{
-						"rxcui": "860975",
+						"rxcui": "metFORMIN HCl 500 MG 24HR Extended Release Oral Tablet",
 						"tier": 6,
 						"type": "copay"
 					},
 					{
-						"rxcui": "966225",
+						"rxcui": "levothyroxine sodium 150 MCG Oral Tablet",
 						"tier": 1,
 						"type": "copay"
 					}
 				],
 				"uncovered": [
-					"2167557",
-					"252857"
+					"rosuvastatin 10 MG Oral Capsule",
+					"aspirin 81 MG Oral Capsule"
 				]
 			},
 			{
@@ -9383,54 +9383,54 @@
 				"ESTIMATED_MONTHLY_COST": 24,
 				"covered": [
 					{
-						"rxcui": "1364447",
+						"rxcui": "Eliquis 5 MG Oral Tablet",
 						"tier": 3,
 						"type": "coinsurance"
 					},
 					{
-						"rxcui": "1545664",
+						"rxcui": "Jardiance 10 MG Oral Tablet",
 						"tier": 2,
 						"type": "copay"
 					},
 					{
-						"rxcui": "197604",
+						"rxcui": "digoxin 125 MCG Oral Tablet",
 						"tier": 2,
 						"type": "copay"
 					},
 					{
-						"rxcui": "2200650",
+						"rxcui": "RYBELSUS 14 MG Oral Tablet",
 						"tier": 3,
 						"type": "coinsurance"
 					},
 					{
-						"rxcui": "349483",
+						"rxcui": "valsartan 40 MG Oral Tablet",
 						"tier": 1,
 						"type": "copay"
 					},
 					{
-						"rxcui": "830845",
+						"rxcui": "dilTIAZem HCl 180 MG 24HR Extended Release Oral Capsule",
 						"tier": 1,
 						"type": "copay"
 					},
 					{
-						"rxcui": "847232",
+						"rxcui": "Lantus 100 UNT/ML in 3 ML Pen Injector",
 						"tier": 3,
 						"type": "coinsurance"
 					},
 					{
-						"rxcui": "860975",
+						"rxcui": "metFORMIN HCl 500 MG 24HR Extended Release Oral Tablet",
 						"tier": 1,
 						"type": "copay"
 					},
 					{
-						"rxcui": "966225",
+						"rxcui": "levothyroxine sodium 150 MCG Oral Tablet",
 						"tier": 1,
 						"type": "copay"
 					}
 				],
 				"uncovered": [
-					"2167557",
-					"252857"
+					"rosuvastatin 10 MG Oral Capsule",
+					"aspirin 81 MG Oral Capsule"
 				]
 			},
 			{
@@ -9824,54 +9824,54 @@
 				"ESTIMATED_MONTHLY_COST": 263.9,
 				"covered": [
 					{
-						"rxcui": "1364447",
+						"rxcui": "Eliquis 5 MG Oral Tablet",
 						"tier": 3,
 						"type": "copay"
 					},
 					{
-						"rxcui": "1545664",
+						"rxcui": "Jardiance 10 MG Oral Tablet",
 						"tier": 3,
 						"type": "copay"
 					},
 					{
-						"rxcui": "197604",
+						"rxcui": "digoxin 125 MCG Oral Tablet",
 						"tier": 2,
 						"type": "copay"
 					},
 					{
-						"rxcui": "2200650",
+						"rxcui": "RYBELSUS 14 MG Oral Tablet",
 						"tier": 3,
 						"type": "copay"
 					},
 					{
-						"rxcui": "349483",
+						"rxcui": "valsartan 40 MG Oral Tablet",
 						"tier": 1,
 						"type": "copay"
 					},
 					{
-						"rxcui": "830845",
+						"rxcui": "dilTIAZem HCl 180 MG 24HR Extended Release Oral Capsule",
 						"tier": 2,
 						"type": "copay"
 					},
 					{
-						"rxcui": "847232",
+						"rxcui": "Lantus 100 UNT/ML in 3 ML Pen Injector",
 						"tier": 3,
 						"type": "copay"
 					},
 					{
-						"rxcui": "860975",
+						"rxcui": "metFORMIN HCl 500 MG 24HR Extended Release Oral Tablet",
 						"tier": 1,
 						"type": "copay"
 					},
 					{
-						"rxcui": "966225",
+						"rxcui": "levothyroxine sodium 150 MCG Oral Tablet",
 						"tier": 1,
 						"type": "copay"
 					}
 				],
 				"uncovered": [
-					"2167557",
-					"252857"
+					"rosuvastatin 10 MG Oral Capsule",
+					"aspirin 81 MG Oral Capsule"
 				]
 			},
 			{
@@ -10265,54 +10265,54 @@
 				"ESTIMATED_MONTHLY_COST": 30,
 				"covered": [
 					{
-						"rxcui": "1364447",
+						"rxcui": "Eliquis 5 MG Oral Tablet",
 						"tier": 3,
 						"type": "coinsurance"
 					},
 					{
-						"rxcui": "1545664",
+						"rxcui": "Jardiance 10 MG Oral Tablet",
 						"tier": 3,
 						"type": "coinsurance"
 					},
 					{
-						"rxcui": "197604",
+						"rxcui": "digoxin 125 MCG Oral Tablet",
 						"tier": 2,
 						"type": "copay"
 					},
 					{
-						"rxcui": "2200650",
+						"rxcui": "RYBELSUS 14 MG Oral Tablet",
 						"tier": 3,
 						"type": "coinsurance"
 					},
 					{
-						"rxcui": "349483",
+						"rxcui": "valsartan 40 MG Oral Tablet",
 						"tier": 1,
 						"type": "copay"
 					},
 					{
-						"rxcui": "830845",
+						"rxcui": "dilTIAZem HCl 180 MG 24HR Extended Release Oral Capsule",
 						"tier": 2,
 						"type": "copay"
 					},
 					{
-						"rxcui": "847232",
+						"rxcui": "Lantus 100 UNT/ML in 3 ML Pen Injector",
 						"tier": 3,
 						"type": "coinsurance"
 					},
 					{
-						"rxcui": "860975",
+						"rxcui": "metFORMIN HCl 500 MG 24HR Extended Release Oral Tablet",
 						"tier": 1,
 						"type": "copay"
 					},
 					{
-						"rxcui": "966225",
+						"rxcui": "levothyroxine sodium 150 MCG Oral Tablet",
 						"tier": 1,
 						"type": "copay"
 					}
 				],
 				"uncovered": [
-					"2167557",
-					"252857"
+					"rosuvastatin 10 MG Oral Capsule",
+					"aspirin 81 MG Oral Capsule"
 				]
 			},
 			{
@@ -10706,54 +10706,54 @@
 				"ESTIMATED_MONTHLY_COST": 223,
 				"covered": [
 					{
-						"rxcui": "1364447",
+						"rxcui": "Eliquis 5 MG Oral Tablet",
 						"tier": 3,
 						"type": "copay"
 					},
 					{
-						"rxcui": "1545664",
+						"rxcui": "Jardiance 10 MG Oral Tablet",
 						"tier": 3,
 						"type": "copay"
 					},
 					{
-						"rxcui": "197604",
+						"rxcui": "digoxin 125 MCG Oral Tablet",
 						"tier": 2,
 						"type": "copay"
 					},
 					{
-						"rxcui": "2200650",
+						"rxcui": "RYBELSUS 14 MG Oral Tablet",
 						"tier": 3,
 						"type": "copay"
 					},
 					{
-						"rxcui": "349483",
+						"rxcui": "valsartan 40 MG Oral Tablet",
 						"tier": 1,
 						"type": "copay"
 					},
 					{
-						"rxcui": "830845",
+						"rxcui": "dilTIAZem HCl 180 MG 24HR Extended Release Oral Capsule",
 						"tier": 2,
 						"type": "copay"
 					},
 					{
-						"rxcui": "847232",
+						"rxcui": "Lantus 100 UNT/ML in 3 ML Pen Injector",
 						"tier": 3,
 						"type": "copay"
 					},
 					{
-						"rxcui": "860975",
+						"rxcui": "metFORMIN HCl 500 MG 24HR Extended Release Oral Tablet",
 						"tier": 1,
 						"type": "copay"
 					},
 					{
-						"rxcui": "966225",
+						"rxcui": "levothyroxine sodium 150 MCG Oral Tablet",
 						"tier": 1,
 						"type": "copay"
 					}
 				],
 				"uncovered": [
-					"2167557",
-					"252857"
+					"rosuvastatin 10 MG Oral Capsule",
+					"aspirin 81 MG Oral Capsule"
 				]
 			},
 			{
@@ -11147,54 +11147,54 @@
 				"ESTIMATED_MONTHLY_COST": 223,
 				"covered": [
 					{
-						"rxcui": "1364447",
+						"rxcui": "Eliquis 5 MG Oral Tablet",
 						"tier": 3,
 						"type": "copay"
 					},
 					{
-						"rxcui": "1545664",
+						"rxcui": "Jardiance 10 MG Oral Tablet",
 						"tier": 3,
 						"type": "copay"
 					},
 					{
-						"rxcui": "197604",
+						"rxcui": "digoxin 125 MCG Oral Tablet",
 						"tier": 2,
 						"type": "copay"
 					},
 					{
-						"rxcui": "2200650",
+						"rxcui": "RYBELSUS 14 MG Oral Tablet",
 						"tier": 3,
 						"type": "copay"
 					},
 					{
-						"rxcui": "349483",
+						"rxcui": "valsartan 40 MG Oral Tablet",
 						"tier": 1,
 						"type": "copay"
 					},
 					{
-						"rxcui": "830845",
+						"rxcui": "dilTIAZem HCl 180 MG 24HR Extended Release Oral Capsule",
 						"tier": 2,
 						"type": "copay"
 					},
 					{
-						"rxcui": "847232",
+						"rxcui": "Lantus 100 UNT/ML in 3 ML Pen Injector",
 						"tier": 3,
 						"type": "copay"
 					},
 					{
-						"rxcui": "860975",
+						"rxcui": "metFORMIN HCl 500 MG 24HR Extended Release Oral Tablet",
 						"tier": 1,
 						"type": "copay"
 					},
 					{
-						"rxcui": "966225",
+						"rxcui": "levothyroxine sodium 150 MCG Oral Tablet",
 						"tier": 1,
 						"type": "copay"
 					}
 				],
 				"uncovered": [
-					"2167557",
-					"252857"
+					"rosuvastatin 10 MG Oral Capsule",
+					"aspirin 81 MG Oral Capsule"
 				]
 			},
 			{
@@ -11588,54 +11588,54 @@
 				"ESTIMATED_MONTHLY_COST": 25.9,
 				"covered": [
 					{
-						"rxcui": "1364447",
+						"rxcui": "Eliquis 5 MG Oral Tablet",
 						"tier": 3,
 						"type": "coinsurance"
 					},
 					{
-						"rxcui": "1545664",
+						"rxcui": "Jardiance 10 MG Oral Tablet",
 						"tier": 3,
 						"type": "coinsurance"
 					},
 					{
-						"rxcui": "197604",
+						"rxcui": "digoxin 125 MCG Oral Tablet",
 						"tier": 2,
 						"type": "copay"
 					},
 					{
-						"rxcui": "2200650",
+						"rxcui": "RYBELSUS 14 MG Oral Tablet",
 						"tier": 3,
 						"type": "coinsurance"
 					},
 					{
-						"rxcui": "349483",
+						"rxcui": "valsartan 40 MG Oral Tablet",
 						"tier": 1,
 						"type": "copay"
 					},
 					{
-						"rxcui": "830845",
+						"rxcui": "dilTIAZem HCl 180 MG 24HR Extended Release Oral Capsule",
 						"tier": 2,
 						"type": "copay"
 					},
 					{
-						"rxcui": "847232",
+						"rxcui": "Lantus 100 UNT/ML in 3 ML Pen Injector",
 						"tier": 3,
 						"type": "coinsurance"
 					},
 					{
-						"rxcui": "860975",
+						"rxcui": "metFORMIN HCl 500 MG 24HR Extended Release Oral Tablet",
 						"tier": 1,
 						"type": "copay"
 					},
 					{
-						"rxcui": "966225",
+						"rxcui": "levothyroxine sodium 150 MCG Oral Tablet",
 						"tier": 1,
 						"type": "copay"
 					}
 				],
 				"uncovered": [
-					"2167557",
-					"252857"
+					"rosuvastatin 10 MG Oral Capsule",
+					"aspirin 81 MG Oral Capsule"
 				]
 			},
 			{
@@ -12029,54 +12029,54 @@
 				"ESTIMATED_MONTHLY_COST": 172,
 				"covered": [
 					{
-						"rxcui": "1364447",
+						"rxcui": "Eliquis 5 MG Oral Tablet",
 						"tier": 3,
 						"type": "copay"
 					},
 					{
-						"rxcui": "1545664",
+						"rxcui": "Jardiance 10 MG Oral Tablet",
 						"tier": 3,
 						"type": "copay"
 					},
 					{
-						"rxcui": "197604",
+						"rxcui": "digoxin 125 MCG Oral Tablet",
 						"tier": 2,
 						"type": "copay"
 					},
 					{
-						"rxcui": "2200650",
+						"rxcui": "RYBELSUS 14 MG Oral Tablet",
 						"tier": 3,
 						"type": "copay"
 					},
 					{
-						"rxcui": "349483",
+						"rxcui": "valsartan 40 MG Oral Tablet",
 						"tier": 1,
 						"type": "copay"
 					},
 					{
-						"rxcui": "830845",
+						"rxcui": "dilTIAZem HCl 180 MG 24HR Extended Release Oral Capsule",
 						"tier": 2,
 						"type": "copay"
 					},
 					{
-						"rxcui": "847232",
+						"rxcui": "Lantus 100 UNT/ML in 3 ML Pen Injector",
 						"tier": 3,
 						"type": "copay"
 					},
 					{
-						"rxcui": "860975",
+						"rxcui": "metFORMIN HCl 500 MG 24HR Extended Release Oral Tablet",
 						"tier": 1,
 						"type": "copay"
 					},
 					{
-						"rxcui": "966225",
+						"rxcui": "levothyroxine sodium 150 MCG Oral Tablet",
 						"tier": 1,
 						"type": "copay"
 					}
 				],
 				"uncovered": [
-					"2167557",
-					"252857"
+					"rosuvastatin 10 MG Oral Capsule",
+					"aspirin 81 MG Oral Capsule"
 				]
 			},
 			{
@@ -12412,54 +12412,54 @@
 				"ESTIMATED_MONTHLY_COST": 198,
 				"covered": [
 					{
-						"rxcui": "1364447",
+						"rxcui": "Eliquis 5 MG Oral Tablet",
 						"tier": 3,
 						"type": "copay"
 					},
 					{
-						"rxcui": "1545664",
+						"rxcui": "Jardiance 10 MG Oral Tablet",
 						"tier": 3,
 						"type": "copay"
 					},
 					{
-						"rxcui": "197604",
+						"rxcui": "digoxin 125 MCG Oral Tablet",
 						"tier": 2,
 						"type": "copay"
 					},
 					{
-						"rxcui": "2200650",
+						"rxcui": "RYBELSUS 14 MG Oral Tablet",
 						"tier": 3,
 						"type": "copay"
 					},
 					{
-						"rxcui": "349483",
+						"rxcui": "valsartan 40 MG Oral Tablet",
 						"tier": 6,
 						"type": "copay"
 					},
 					{
-						"rxcui": "830845",
+						"rxcui": "dilTIAZem HCl 180 MG 24HR Extended Release Oral Capsule",
 						"tier": 2,
 						"type": "copay"
 					},
 					{
-						"rxcui": "847232",
+						"rxcui": "Lantus 100 UNT/ML in 3 ML Pen Injector",
 						"tier": 3,
 						"type": "copay"
 					},
 					{
-						"rxcui": "860975",
+						"rxcui": "metFORMIN HCl 500 MG 24HR Extended Release Oral Tablet",
 						"tier": 6,
 						"type": "copay"
 					},
 					{
-						"rxcui": "966225",
+						"rxcui": "levothyroxine sodium 150 MCG Oral Tablet",
 						"tier": 1,
 						"type": "copay"
 					}
 				],
 				"uncovered": [
-					"2167557",
-					"252857"
+					"rosuvastatin 10 MG Oral Capsule",
+					"aspirin 81 MG Oral Capsule"
 				]
 			},
 			{
@@ -12737,54 +12737,54 @@
 				"ESTIMATED_MONTHLY_COST": 210,
 				"covered": [
 					{
-						"rxcui": "1364447",
+						"rxcui": "Eliquis 5 MG Oral Tablet",
 						"tier": 3,
 						"type": "copay"
 					},
 					{
-						"rxcui": "1545664",
+						"rxcui": "Jardiance 10 MG Oral Tablet",
 						"tier": 3,
 						"type": "copay"
 					},
 					{
-						"rxcui": "197604",
+						"rxcui": "digoxin 125 MCG Oral Tablet",
 						"tier": 2,
 						"type": "copay"
 					},
 					{
-						"rxcui": "2200650",
+						"rxcui": "RYBELSUS 14 MG Oral Tablet",
 						"tier": 3,
 						"type": "copay"
 					},
 					{
-						"rxcui": "349483",
+						"rxcui": "valsartan 40 MG Oral Tablet",
 						"tier": 2,
 						"type": "copay"
 					},
 					{
-						"rxcui": "830845",
+						"rxcui": "dilTIAZem HCl 180 MG 24HR Extended Release Oral Capsule",
 						"tier": 2,
 						"type": "copay"
 					},
 					{
-						"rxcui": "847232",
+						"rxcui": "Lantus 100 UNT/ML in 3 ML Pen Injector",
 						"tier": 3,
 						"type": "copay"
 					},
 					{
-						"rxcui": "860975",
+						"rxcui": "metFORMIN HCl 500 MG 24HR Extended Release Oral Tablet",
 						"tier": 1,
 						"type": "copay"
 					},
 					{
-						"rxcui": "966225",
+						"rxcui": "levothyroxine sodium 150 MCG Oral Tablet",
 						"tier": 1,
 						"type": "copay"
 					}
 				],
 				"uncovered": [
-					"2167557",
-					"252857"
+					"rosuvastatin 10 MG Oral Capsule",
+					"aspirin 81 MG Oral Capsule"
 				]
 			},
 			{
@@ -13062,54 +13062,54 @@
 				"ESTIMATED_MONTHLY_COST": 198,
 				"covered": [
 					{
-						"rxcui": "1364447",
+						"rxcui": "Eliquis 5 MG Oral Tablet",
 						"tier": 3,
 						"type": "copay"
 					},
 					{
-						"rxcui": "1545664",
+						"rxcui": "Jardiance 10 MG Oral Tablet",
 						"tier": 3,
 						"type": "copay"
 					},
 					{
-						"rxcui": "197604",
+						"rxcui": "digoxin 125 MCG Oral Tablet",
 						"tier": 2,
 						"type": "copay"
 					},
 					{
-						"rxcui": "2200650",
+						"rxcui": "RYBELSUS 14 MG Oral Tablet",
 						"tier": 3,
 						"type": "copay"
 					},
 					{
-						"rxcui": "349483",
+						"rxcui": "valsartan 40 MG Oral Tablet",
 						"tier": 2,
 						"type": "copay"
 					},
 					{
-						"rxcui": "830845",
+						"rxcui": "dilTIAZem HCl 180 MG 24HR Extended Release Oral Capsule",
 						"tier": 2,
 						"type": "copay"
 					},
 					{
-						"rxcui": "847232",
+						"rxcui": "Lantus 100 UNT/ML in 3 ML Pen Injector",
 						"tier": 3,
 						"type": "copay"
 					},
 					{
-						"rxcui": "860975",
+						"rxcui": "metFORMIN HCl 500 MG 24HR Extended Release Oral Tablet",
 						"tier": 1,
 						"type": "copay"
 					},
 					{
-						"rxcui": "966225",
+						"rxcui": "levothyroxine sodium 150 MCG Oral Tablet",
 						"tier": 1,
 						"type": "copay"
 					}
 				],
 				"uncovered": [
-					"2167557",
-					"252857"
+					"rosuvastatin 10 MG Oral Capsule",
+					"aspirin 81 MG Oral Capsule"
 				]
 			},
 			{
@@ -13184,54 +13184,54 @@
 				"ESTIMATED_MONTHLY_COST": 0,
 				"covered": [
 					{
-						"rxcui": "1364447",
+						"rxcui": "Eliquis 5 MG Oral Tablet",
 						"tier": 1,
 						"type": "coinsurance"
 					},
 					{
-						"rxcui": "1545664",
+						"rxcui": "Jardiance 10 MG Oral Tablet",
 						"tier": 1,
 						"type": "coinsurance"
 					},
 					{
-						"rxcui": "197604",
+						"rxcui": "digoxin 125 MCG Oral Tablet",
 						"tier": 1,
 						"type": "coinsurance"
 					},
 					{
-						"rxcui": "2200650",
+						"rxcui": "RYBELSUS 14 MG Oral Tablet",
 						"tier": 1,
 						"type": "coinsurance"
 					},
 					{
-						"rxcui": "349483",
+						"rxcui": "valsartan 40 MG Oral Tablet",
 						"tier": 1,
 						"type": "coinsurance"
 					},
 					{
-						"rxcui": "830845",
+						"rxcui": "dilTIAZem HCl 180 MG 24HR Extended Release Oral Capsule",
 						"tier": 1,
 						"type": "coinsurance"
 					},
 					{
-						"rxcui": "847232",
+						"rxcui": "Lantus 100 UNT/ML in 3 ML Pen Injector",
 						"tier": 1,
 						"type": "coinsurance"
 					},
 					{
-						"rxcui": "860975",
+						"rxcui": "metFORMIN HCl 500 MG 24HR Extended Release Oral Tablet",
 						"tier": 1,
 						"type": "coinsurance"
 					},
 					{
-						"rxcui": "966225",
+						"rxcui": "levothyroxine sodium 150 MCG Oral Tablet",
 						"tier": 1,
 						"type": "coinsurance"
 					}
 				],
 				"uncovered": [
-					"2167557",
-					"252857"
+					"rosuvastatin 10 MG Oral Capsule",
+					"aspirin 81 MG Oral Capsule"
 				]
 			},
 			{
@@ -13625,54 +13625,54 @@
 				"ESTIMATED_MONTHLY_COST": 30,
 				"covered": [
 					{
-						"rxcui": "1364447",
+						"rxcui": "Eliquis 5 MG Oral Tablet",
 						"tier": 3,
 						"type": "coinsurance"
 					},
 					{
-						"rxcui": "1545664",
+						"rxcui": "Jardiance 10 MG Oral Tablet",
 						"tier": 3,
 						"type": "coinsurance"
 					},
 					{
-						"rxcui": "197604",
+						"rxcui": "digoxin 125 MCG Oral Tablet",
 						"tier": 2,
 						"type": "copay"
 					},
 					{
-						"rxcui": "2200650",
+						"rxcui": "RYBELSUS 14 MG Oral Tablet",
 						"tier": 3,
 						"type": "coinsurance"
 					},
 					{
-						"rxcui": "349483",
+						"rxcui": "valsartan 40 MG Oral Tablet",
 						"tier": 1,
 						"type": "copay"
 					},
 					{
-						"rxcui": "830845",
+						"rxcui": "dilTIAZem HCl 180 MG 24HR Extended Release Oral Capsule",
 						"tier": 2,
 						"type": "copay"
 					},
 					{
-						"rxcui": "847232",
+						"rxcui": "Lantus 100 UNT/ML in 3 ML Pen Injector",
 						"tier": 3,
 						"type": "coinsurance"
 					},
 					{
-						"rxcui": "860975",
+						"rxcui": "metFORMIN HCl 500 MG 24HR Extended Release Oral Tablet",
 						"tier": 1,
 						"type": "copay"
 					},
 					{
-						"rxcui": "966225",
+						"rxcui": "levothyroxine sodium 150 MCG Oral Tablet",
 						"tier": 1,
 						"type": "copay"
 					}
 				],
 				"uncovered": [
-					"2167557",
-					"252857"
+					"rosuvastatin 10 MG Oral Capsule",
+					"aspirin 81 MG Oral Capsule"
 				]
 			},
 			{
@@ -14066,46 +14066,46 @@
 				"ESTIMATED_MONTHLY_COST": 28.2,
 				"covered": [
 					{
-						"rxcui": "1364447",
+						"rxcui": "Eliquis 5 MG Oral Tablet",
 						"tier": 3,
 						"type": "coinsurance"
 					},
 					{
-						"rxcui": "1545664",
+						"rxcui": "Jardiance 10 MG Oral Tablet",
 						"tier": 3,
 						"type": "coinsurance"
 					},
 					{
-						"rxcui": "197604",
+						"rxcui": "digoxin 125 MCG Oral Tablet",
 						"tier": 3,
 						"type": "coinsurance"
 					},
 					{
-						"rxcui": "349483",
+						"rxcui": "valsartan 40 MG Oral Tablet",
 						"tier": 1,
 						"type": "copay"
 					},
 					{
-						"rxcui": "830845",
+						"rxcui": "dilTIAZem HCl 180 MG 24HR Extended Release Oral Capsule",
 						"tier": 2,
 						"type": "copay"
 					},
 					{
-						"rxcui": "860975",
+						"rxcui": "metFORMIN HCl 500 MG 24HR Extended Release Oral Tablet",
 						"tier": 1,
 						"type": "copay"
 					},
 					{
-						"rxcui": "966225",
+						"rxcui": "levothyroxine sodium 150 MCG Oral Tablet",
 						"tier": 1,
 						"type": "copay"
 					}
 				],
 				"uncovered": [
-					"2200650",
-					"2167557",
-					"847232",
-					"252857"
+					"RYBELSUS 14 MG Oral Tablet",
+					"rosuvastatin 10 MG Oral Capsule",
+					"Lantus 100 UNT/ML in 3 ML Pen Injector",
+					"aspirin 81 MG Oral Capsule"
 				]
 			},
 			{
@@ -14586,50 +14586,50 @@
 				"ESTIMATED_MONTHLY_COST": 105,
 				"covered": [
 					{
-						"rxcui": "1364447",
+						"rxcui": "Eliquis 5 MG Oral Tablet",
 						"tier": 3,
 						"type": "copay"
 					},
 					{
-						"rxcui": "1545664",
+						"rxcui": "Jardiance 10 MG Oral Tablet",
 						"tier": 3,
 						"type": "copay"
 					},
 					{
-						"rxcui": "197604",
+						"rxcui": "digoxin 125 MCG Oral Tablet",
 						"tier": 2,
 						"type": "copay"
 					},
 					{
-						"rxcui": "2200650",
+						"rxcui": "RYBELSUS 14 MG Oral Tablet",
 						"tier": 3,
 						"type": "copay"
 					},
 					{
-						"rxcui": "349483",
+						"rxcui": "valsartan 40 MG Oral Tablet",
 						"tier": 1,
 						"type": "copay"
 					},
 					{
-						"rxcui": "830845",
+						"rxcui": "dilTIAZem HCl 180 MG 24HR Extended Release Oral Capsule",
 						"tier": 2,
 						"type": "copay"
 					},
 					{
-						"rxcui": "860975",
+						"rxcui": "metFORMIN HCl 500 MG 24HR Extended Release Oral Tablet",
 						"tier": 6,
 						"type": "copay"
 					},
 					{
-						"rxcui": "966225",
+						"rxcui": "levothyroxine sodium 150 MCG Oral Tablet",
 						"tier": 2,
 						"type": "copay"
 					}
 				],
 				"uncovered": [
-					"2167557",
-					"847232",
-					"252857"
+					"rosuvastatin 10 MG Oral Capsule",
+					"Lantus 100 UNT/ML in 3 ML Pen Injector",
+					"aspirin 81 MG Oral Capsule"
 				]
 			},
 			{
@@ -15110,50 +15110,50 @@
 				"ESTIMATED_MONTHLY_COST": 105,
 				"covered": [
 					{
-						"rxcui": "1364447",
+						"rxcui": "Eliquis 5 MG Oral Tablet",
 						"tier": 3,
 						"type": "copay"
 					},
 					{
-						"rxcui": "1545664",
+						"rxcui": "Jardiance 10 MG Oral Tablet",
 						"tier": 3,
 						"type": "copay"
 					},
 					{
-						"rxcui": "197604",
+						"rxcui": "digoxin 125 MCG Oral Tablet",
 						"tier": 2,
 						"type": "copay"
 					},
 					{
-						"rxcui": "2200650",
+						"rxcui": "RYBELSUS 14 MG Oral Tablet",
 						"tier": 3,
 						"type": "copay"
 					},
 					{
-						"rxcui": "349483",
+						"rxcui": "valsartan 40 MG Oral Tablet",
 						"tier": 1,
 						"type": "copay"
 					},
 					{
-						"rxcui": "830845",
+						"rxcui": "dilTIAZem HCl 180 MG 24HR Extended Release Oral Capsule",
 						"tier": 2,
 						"type": "copay"
 					},
 					{
-						"rxcui": "860975",
+						"rxcui": "metFORMIN HCl 500 MG 24HR Extended Release Oral Tablet",
 						"tier": 6,
 						"type": "copay"
 					},
 					{
-						"rxcui": "966225",
+						"rxcui": "levothyroxine sodium 150 MCG Oral Tablet",
 						"tier": 2,
 						"type": "copay"
 					}
 				],
 				"uncovered": [
-					"2167557",
-					"847232",
-					"252857"
+					"rosuvastatin 10 MG Oral Capsule",
+					"Lantus 100 UNT/ML in 3 ML Pen Injector",
+					"aspirin 81 MG Oral Capsule"
 				]
 			},
 			{
@@ -15634,50 +15634,50 @@
 				"ESTIMATED_MONTHLY_COST": 168,
 				"covered": [
 					{
-						"rxcui": "1364447",
+						"rxcui": "Eliquis 5 MG Oral Tablet",
 						"tier": 3,
 						"type": "copay"
 					},
 					{
-						"rxcui": "1545664",
+						"rxcui": "Jardiance 10 MG Oral Tablet",
 						"tier": 3,
 						"type": "copay"
 					},
 					{
-						"rxcui": "197604",
+						"rxcui": "digoxin 125 MCG Oral Tablet",
 						"tier": 2,
 						"type": "copay"
 					},
 					{
-						"rxcui": "2200650",
+						"rxcui": "RYBELSUS 14 MG Oral Tablet",
 						"tier": 3,
 						"type": "copay"
 					},
 					{
-						"rxcui": "349483",
+						"rxcui": "valsartan 40 MG Oral Tablet",
 						"tier": 1,
 						"type": "copay"
 					},
 					{
-						"rxcui": "830845",
+						"rxcui": "dilTIAZem HCl 180 MG 24HR Extended Release Oral Capsule",
 						"tier": 2,
 						"type": "copay"
 					},
 					{
-						"rxcui": "860975",
+						"rxcui": "metFORMIN HCl 500 MG 24HR Extended Release Oral Tablet",
 						"tier": 6,
 						"type": "copay"
 					},
 					{
-						"rxcui": "966225",
+						"rxcui": "levothyroxine sodium 150 MCG Oral Tablet",
 						"tier": 2,
 						"type": "copay"
 					}
 				],
 				"uncovered": [
-					"2167557",
-					"847232",
-					"252857"
+					"rosuvastatin 10 MG Oral Capsule",
+					"Lantus 100 UNT/ML in 3 ML Pen Injector",
+					"aspirin 81 MG Oral Capsule"
 				]
 			},
 			{
@@ -16129,50 +16129,50 @@
 				"ESTIMATED_MONTHLY_COST": 13.4,
 				"covered": [
 					{
-						"rxcui": "1364447",
+						"rxcui": "Eliquis 5 MG Oral Tablet",
 						"tier": 3,
 						"type": "coinsurance"
 					},
 					{
-						"rxcui": "1545664",
+						"rxcui": "Jardiance 10 MG Oral Tablet",
 						"tier": 3,
 						"type": "coinsurance"
 					},
 					{
-						"rxcui": "197604",
+						"rxcui": "digoxin 125 MCG Oral Tablet",
 						"tier": 2,
 						"type": "coinsurance"
 					},
 					{
-						"rxcui": "2200650",
+						"rxcui": "RYBELSUS 14 MG Oral Tablet",
 						"tier": 3,
 						"type": "coinsurance"
 					},
 					{
-						"rxcui": "349483",
+						"rxcui": "valsartan 40 MG Oral Tablet",
 						"tier": 1,
 						"type": "coinsurance"
 					},
 					{
-						"rxcui": "830845",
+						"rxcui": "dilTIAZem HCl 180 MG 24HR Extended Release Oral Capsule",
 						"tier": 2,
 						"type": "coinsurance"
 					},
 					{
-						"rxcui": "860975",
+						"rxcui": "metFORMIN HCl 500 MG 24HR Extended Release Oral Tablet",
 						"tier": 1,
 						"type": "coinsurance"
 					},
 					{
-						"rxcui": "966225",
+						"rxcui": "levothyroxine sodium 150 MCG Oral Tablet",
 						"tier": 1,
 						"type": "coinsurance"
 					}
 				],
 				"uncovered": [
-					"2167557",
-					"847232",
-					"252857"
+					"rosuvastatin 10 MG Oral Capsule",
+					"Lantus 100 UNT/ML in 3 ML Pen Injector",
+					"aspirin 81 MG Oral Capsule"
 				]
 			},
 			{
@@ -16653,50 +16653,50 @@
 				"ESTIMATED_MONTHLY_COST": 105,
 				"covered": [
 					{
-						"rxcui": "1364447",
+						"rxcui": "Eliquis 5 MG Oral Tablet",
 						"tier": 3,
 						"type": "copay"
 					},
 					{
-						"rxcui": "1545664",
+						"rxcui": "Jardiance 10 MG Oral Tablet",
 						"tier": 3,
 						"type": "copay"
 					},
 					{
-						"rxcui": "197604",
+						"rxcui": "digoxin 125 MCG Oral Tablet",
 						"tier": 2,
 						"type": "copay"
 					},
 					{
-						"rxcui": "2200650",
+						"rxcui": "RYBELSUS 14 MG Oral Tablet",
 						"tier": 3,
 						"type": "copay"
 					},
 					{
-						"rxcui": "349483",
+						"rxcui": "valsartan 40 MG Oral Tablet",
 						"tier": 1,
 						"type": "copay"
 					},
 					{
-						"rxcui": "830845",
+						"rxcui": "dilTIAZem HCl 180 MG 24HR Extended Release Oral Capsule",
 						"tier": 2,
 						"type": "copay"
 					},
 					{
-						"rxcui": "860975",
+						"rxcui": "metFORMIN HCl 500 MG 24HR Extended Release Oral Tablet",
 						"tier": 6,
 						"type": "copay"
 					},
 					{
-						"rxcui": "966225",
+						"rxcui": "levothyroxine sodium 150 MCG Oral Tablet",
 						"tier": 2,
 						"type": "copay"
 					}
 				],
 				"uncovered": [
-					"2167557",
-					"847232",
-					"252857"
+					"rosuvastatin 10 MG Oral Capsule",
+					"Lantus 100 UNT/ML in 3 ML Pen Injector",
+					"aspirin 81 MG Oral Capsule"
 				]
 			},
 			{
@@ -17177,46 +17177,46 @@
 				"ESTIMATED_MONTHLY_COST": 0,
 				"covered": [
 					{
-						"rxcui": "1364447",
+						"rxcui": "Eliquis 5 MG Oral Tablet",
 						"tier": 4,
 						"type": "coinsurance"
 					},
 					{
-						"rxcui": "1545664",
+						"rxcui": "Jardiance 10 MG Oral Tablet",
 						"tier": 3,
 						"type": "coinsurance"
 					},
 					{
-						"rxcui": "197604",
+						"rxcui": "digoxin 125 MCG Oral Tablet",
 						"tier": 2,
 						"type": "copay"
 					},
 					{
-						"rxcui": "349483",
+						"rxcui": "valsartan 40 MG Oral Tablet",
 						"tier": 1,
 						"type": "copay"
 					},
 					{
-						"rxcui": "830845",
+						"rxcui": "dilTIAZem HCl 180 MG 24HR Extended Release Oral Capsule",
 						"tier": 2,
 						"type": "copay"
 					},
 					{
-						"rxcui": "860975",
+						"rxcui": "metFORMIN HCl 500 MG 24HR Extended Release Oral Tablet",
 						"tier": 1,
 						"type": "copay"
 					},
 					{
-						"rxcui": "966225",
+						"rxcui": "levothyroxine sodium 150 MCG Oral Tablet",
 						"tier": 1,
 						"type": "copay"
 					}
 				],
 				"uncovered": [
-					"2200650",
-					"2167557",
-					"847232",
-					"252857"
+					"RYBELSUS 14 MG Oral Tablet",
+					"rosuvastatin 10 MG Oral Capsule",
+					"Lantus 100 UNT/ML in 3 ML Pen Injector",
+					"aspirin 81 MG Oral Capsule"
 				]
 			},
 			{
@@ -17610,54 +17610,54 @@
 				"ESTIMATED_MONTHLY_COST": 219.7,
 				"covered": [
 					{
-						"rxcui": "1364447",
+						"rxcui": "Eliquis 5 MG Oral Tablet",
 						"tier": 3,
 						"type": "coinsurance"
 					},
 					{
-						"rxcui": "1545664",
+						"rxcui": "Jardiance 10 MG Oral Tablet",
 						"tier": 3,
 						"type": "coinsurance"
 					},
 					{
-						"rxcui": "197604",
+						"rxcui": "digoxin 125 MCG Oral Tablet",
 						"tier": 2,
 						"type": "copay"
 					},
 					{
-						"rxcui": "2200650",
+						"rxcui": "RYBELSUS 14 MG Oral Tablet",
 						"tier": 3,
 						"type": "coinsurance"
 					},
 					{
-						"rxcui": "349483",
+						"rxcui": "valsartan 40 MG Oral Tablet",
 						"tier": 2,
 						"type": "copay"
 					},
 					{
-						"rxcui": "830845",
+						"rxcui": "dilTIAZem HCl 180 MG 24HR Extended Release Oral Capsule",
 						"tier": 3,
 						"type": "coinsurance"
 					},
 					{
-						"rxcui": "847232",
+						"rxcui": "Lantus 100 UNT/ML in 3 ML Pen Injector",
 						"tier": 3,
 						"type": "coinsurance"
 					},
 					{
-						"rxcui": "860975",
+						"rxcui": "metFORMIN HCl 500 MG 24HR Extended Release Oral Tablet",
 						"tier": 1,
 						"type": "copay"
 					},
 					{
-						"rxcui": "966225",
+						"rxcui": "levothyroxine sodium 150 MCG Oral Tablet",
 						"tier": 1,
 						"type": "copay"
 					}
 				],
 				"uncovered": [
-					"2167557",
-					"252857"
+					"rosuvastatin 10 MG Oral Capsule",
+					"aspirin 81 MG Oral Capsule"
 				]
 			},
 			{
@@ -18051,54 +18051,54 @@
 				"ESTIMATED_MONTHLY_COST": 432.5,
 				"covered": [
 					{
-						"rxcui": "1364447",
+						"rxcui": "Eliquis 5 MG Oral Tablet",
 						"tier": 3,
 						"type": "copay"
 					},
 					{
-						"rxcui": "1545664",
+						"rxcui": "Jardiance 10 MG Oral Tablet",
 						"tier": 3,
 						"type": "copay"
 					},
 					{
-						"rxcui": "197604",
+						"rxcui": "digoxin 125 MCG Oral Tablet",
 						"tier": 2,
 						"type": "copay"
 					},
 					{
-						"rxcui": "2200650",
+						"rxcui": "RYBELSUS 14 MG Oral Tablet",
 						"tier": 3,
 						"type": "copay"
 					},
 					{
-						"rxcui": "349483",
+						"rxcui": "valsartan 40 MG Oral Tablet",
 						"tier": 1,
 						"type": "copay"
 					},
 					{
-						"rxcui": "830845",
+						"rxcui": "dilTIAZem HCl 180 MG 24HR Extended Release Oral Capsule",
 						"tier": 2,
 						"type": "copay"
 					},
 					{
-						"rxcui": "847232",
+						"rxcui": "Lantus 100 UNT/ML in 3 ML Pen Injector",
 						"tier": 3,
 						"type": "copay"
 					},
 					{
-						"rxcui": "860975",
+						"rxcui": "metFORMIN HCl 500 MG 24HR Extended Release Oral Tablet",
 						"tier": 1,
 						"type": "copay"
 					},
 					{
-						"rxcui": "966225",
+						"rxcui": "levothyroxine sodium 150 MCG Oral Tablet",
 						"tier": 1,
 						"type": "copay"
 					}
 				],
 				"uncovered": [
-					"2167557",
-					"252857"
+					"rosuvastatin 10 MG Oral Capsule",
+					"aspirin 81 MG Oral Capsule"
 				]
 			},
 			{
@@ -18492,50 +18492,50 @@
 				"ESTIMATED_MONTHLY_COST": 35.8,
 				"covered": [
 					{
-						"rxcui": "1364447",
+						"rxcui": "Eliquis 5 MG Oral Tablet",
 						"tier": 3,
 						"type": "coinsurance"
 					},
 					{
-						"rxcui": "1545664",
+						"rxcui": "Jardiance 10 MG Oral Tablet",
 						"tier": 3,
 						"type": "coinsurance"
 					},
 					{
-						"rxcui": "197604",
+						"rxcui": "digoxin 125 MCG Oral Tablet",
 						"tier": 2,
 						"type": "copay"
 					},
 					{
-						"rxcui": "2200650",
+						"rxcui": "RYBELSUS 14 MG Oral Tablet",
 						"tier": 3,
 						"type": "coinsurance"
 					},
 					{
-						"rxcui": "349483",
+						"rxcui": "valsartan 40 MG Oral Tablet",
 						"tier": 3,
 						"type": "coinsurance"
 					},
 					{
-						"rxcui": "830845",
+						"rxcui": "dilTIAZem HCl 180 MG 24HR Extended Release Oral Capsule",
 						"tier": 3,
 						"type": "coinsurance"
 					},
 					{
-						"rxcui": "860975",
+						"rxcui": "metFORMIN HCl 500 MG 24HR Extended Release Oral Tablet",
 						"tier": 1,
 						"type": "copay"
 					},
 					{
-						"rxcui": "966225",
+						"rxcui": "levothyroxine sodium 150 MCG Oral Tablet",
 						"tier": 2,
 						"type": "copay"
 					}
 				],
 				"uncovered": [
-					"2167557",
-					"847232",
-					"252857"
+					"rosuvastatin 10 MG Oral Capsule",
+					"Lantus 100 UNT/ML in 3 ML Pen Injector",
+					"aspirin 81 MG Oral Capsule"
 				]
 			},
 			{
@@ -18929,50 +18929,50 @@
 				"ESTIMATED_MONTHLY_COST": 82.4,
 				"covered": [
 					{
-						"rxcui": "1364447",
+						"rxcui": "Eliquis 5 MG Oral Tablet",
 						"tier": 3,
 						"type": "coinsurance"
 					},
 					{
-						"rxcui": "1545664",
+						"rxcui": "Jardiance 10 MG Oral Tablet",
 						"tier": 3,
 						"type": "coinsurance"
 					},
 					{
-						"rxcui": "197604",
+						"rxcui": "digoxin 125 MCG Oral Tablet",
 						"tier": 2,
 						"type": "copay"
 					},
 					{
-						"rxcui": "2200650",
+						"rxcui": "RYBELSUS 14 MG Oral Tablet",
 						"tier": 3,
 						"type": "coinsurance"
 					},
 					{
-						"rxcui": "349483",
+						"rxcui": "valsartan 40 MG Oral Tablet",
 						"tier": 2,
 						"type": "copay"
 					},
 					{
-						"rxcui": "830845",
+						"rxcui": "dilTIAZem HCl 180 MG 24HR Extended Release Oral Capsule",
 						"tier": 2,
 						"type": "copay"
 					},
 					{
-						"rxcui": "860975",
+						"rxcui": "metFORMIN HCl 500 MG 24HR Extended Release Oral Tablet",
 						"tier": 1,
 						"type": "copay"
 					},
 					{
-						"rxcui": "966225",
+						"rxcui": "levothyroxine sodium 150 MCG Oral Tablet",
 						"tier": 1,
 						"type": "copay"
 					}
 				],
 				"uncovered": [
-					"2167557",
-					"847232",
-					"252857"
+					"rosuvastatin 10 MG Oral Capsule",
+					"Lantus 100 UNT/ML in 3 ML Pen Injector",
+					"aspirin 81 MG Oral Capsule"
 				]
 			},
 			{
@@ -19366,50 +19366,50 @@
 				"ESTIMATED_MONTHLY_COST": 152.6,
 				"covered": [
 					{
-						"rxcui": "1364447",
+						"rxcui": "Eliquis 5 MG Oral Tablet",
 						"tier": 3,
 						"type": "coinsurance"
 					},
 					{
-						"rxcui": "1545664",
+						"rxcui": "Jardiance 10 MG Oral Tablet",
 						"tier": 3,
 						"type": "coinsurance"
 					},
 					{
-						"rxcui": "197604",
+						"rxcui": "digoxin 125 MCG Oral Tablet",
 						"tier": 2,
 						"type": "copay"
 					},
 					{
-						"rxcui": "2200650",
+						"rxcui": "RYBELSUS 14 MG Oral Tablet",
 						"tier": 3,
 						"type": "coinsurance"
 					},
 					{
-						"rxcui": "349483",
+						"rxcui": "valsartan 40 MG Oral Tablet",
 						"tier": 1,
 						"type": "copay"
 					},
 					{
-						"rxcui": "830845",
+						"rxcui": "dilTIAZem HCl 180 MG 24HR Extended Release Oral Capsule",
 						"tier": 2,
 						"type": "copay"
 					},
 					{
-						"rxcui": "860975",
+						"rxcui": "metFORMIN HCl 500 MG 24HR Extended Release Oral Tablet",
 						"tier": 1,
 						"type": "copay"
 					},
 					{
-						"rxcui": "966225",
+						"rxcui": "levothyroxine sodium 150 MCG Oral Tablet",
 						"tier": 1,
 						"type": "copay"
 					}
 				],
 				"uncovered": [
-					"2167557",
-					"847232",
-					"252857"
+					"rosuvastatin 10 MG Oral Capsule",
+					"Lantus 100 UNT/ML in 3 ML Pen Injector",
+					"aspirin 81 MG Oral Capsule"
 				]
 			},
 			{
@@ -19803,54 +19803,54 @@
 				"ESTIMATED_MONTHLY_COST": 167.6,
 				"covered": [
 					{
-						"rxcui": "1364447",
+						"rxcui": "Eliquis 5 MG Oral Tablet",
 						"tier": 3,
 						"type": "coinsurance"
 					},
 					{
-						"rxcui": "1545664",
+						"rxcui": "Jardiance 10 MG Oral Tablet",
 						"tier": 3,
 						"type": "coinsurance"
 					},
 					{
-						"rxcui": "197604",
+						"rxcui": "digoxin 125 MCG Oral Tablet",
 						"tier": 2,
 						"type": "copay"
 					},
 					{
-						"rxcui": "2200650",
+						"rxcui": "RYBELSUS 14 MG Oral Tablet",
 						"tier": 3,
 						"type": "coinsurance"
 					},
 					{
-						"rxcui": "349483",
+						"rxcui": "valsartan 40 MG Oral Tablet",
 						"tier": 2,
 						"type": "copay"
 					},
 					{
-						"rxcui": "830845",
+						"rxcui": "dilTIAZem HCl 180 MG 24HR Extended Release Oral Capsule",
 						"tier": 2,
 						"type": "copay"
 					},
 					{
-						"rxcui": "847232",
+						"rxcui": "Lantus 100 UNT/ML in 3 ML Pen Injector",
 						"tier": 3,
 						"type": "coinsurance"
 					},
 					{
-						"rxcui": "860975",
+						"rxcui": "metFORMIN HCl 500 MG 24HR Extended Release Oral Tablet",
 						"tier": 1,
 						"type": "copay"
 					},
 					{
-						"rxcui": "966225",
+						"rxcui": "levothyroxine sodium 150 MCG Oral Tablet",
 						"tier": 2,
 						"type": "copay"
 					}
 				],
 				"uncovered": [
-					"2167557",
-					"252857"
+					"rosuvastatin 10 MG Oral Capsule",
+					"aspirin 81 MG Oral Capsule"
 				]
 			},
 			{
@@ -20244,54 +20244,54 @@
 				"ESTIMATED_MONTHLY_COST": 196.9,
 				"covered": [
 					{
-						"rxcui": "1364447",
+						"rxcui": "Eliquis 5 MG Oral Tablet",
 						"tier": 3,
 						"type": "coinsurance"
 					},
 					{
-						"rxcui": "1545664",
+						"rxcui": "Jardiance 10 MG Oral Tablet",
 						"tier": 3,
 						"type": "coinsurance"
 					},
 					{
-						"rxcui": "197604",
+						"rxcui": "digoxin 125 MCG Oral Tablet",
 						"tier": 2,
 						"type": "copay"
 					},
 					{
-						"rxcui": "2200650",
+						"rxcui": "RYBELSUS 14 MG Oral Tablet",
 						"tier": 3,
 						"type": "coinsurance"
 					},
 					{
-						"rxcui": "349483",
+						"rxcui": "valsartan 40 MG Oral Tablet",
 						"tier": 2,
 						"type": "copay"
 					},
 					{
-						"rxcui": "830845",
+						"rxcui": "dilTIAZem HCl 180 MG 24HR Extended Release Oral Capsule",
 						"tier": 2,
 						"type": "copay"
 					},
 					{
-						"rxcui": "847232",
+						"rxcui": "Lantus 100 UNT/ML in 3 ML Pen Injector",
 						"tier": 3,
 						"type": "coinsurance"
 					},
 					{
-						"rxcui": "860975",
+						"rxcui": "metFORMIN HCl 500 MG 24HR Extended Release Oral Tablet",
 						"tier": 1,
 						"type": "copay"
 					},
 					{
-						"rxcui": "966225",
+						"rxcui": "levothyroxine sodium 150 MCG Oral Tablet",
 						"tier": 1,
 						"type": "copay"
 					}
 				],
 				"uncovered": [
-					"2167557",
-					"252857"
+					"rosuvastatin 10 MG Oral Capsule",
+					"aspirin 81 MG Oral Capsule"
 				]
 			},
 			{
@@ -20685,46 +20685,46 @@
 				"ESTIMATED_MONTHLY_COST": 88.6,
 				"covered": [
 					{
-						"rxcui": "1364447",
+						"rxcui": "Eliquis 5 MG Oral Tablet",
 						"tier": 3,
 						"type": "coinsurance"
 					},
 					{
-						"rxcui": "1545664",
+						"rxcui": "Jardiance 10 MG Oral Tablet",
 						"tier": 3,
 						"type": "coinsurance"
 					},
 					{
-						"rxcui": "197604",
+						"rxcui": "digoxin 125 MCG Oral Tablet",
 						"tier": 3,
 						"type": "coinsurance"
 					},
 					{
-						"rxcui": "349483",
+						"rxcui": "valsartan 40 MG Oral Tablet",
 						"tier": 2,
 						"type": "copay"
 					},
 					{
-						"rxcui": "830845",
+						"rxcui": "dilTIAZem HCl 180 MG 24HR Extended Release Oral Capsule",
 						"tier": 2,
 						"type": "copay"
 					},
 					{
-						"rxcui": "860975",
+						"rxcui": "metFORMIN HCl 500 MG 24HR Extended Release Oral Tablet",
 						"tier": 2,
 						"type": "copay"
 					},
 					{
-						"rxcui": "966225",
+						"rxcui": "levothyroxine sodium 150 MCG Oral Tablet",
 						"tier": 1,
 						"type": "copay"
 					}
 				],
 				"uncovered": [
-					"2200650",
-					"2167557",
-					"847232",
-					"252857"
+					"RYBELSUS 14 MG Oral Tablet",
+					"rosuvastatin 10 MG Oral Capsule",
+					"Lantus 100 UNT/ML in 3 ML Pen Injector",
+					"aspirin 81 MG Oral Capsule"
 				]
 			},
 			{
@@ -21118,54 +21118,54 @@
 				"ESTIMATED_MONTHLY_COST": 20.8,
 				"covered": [
 					{
-						"rxcui": "1364447",
+						"rxcui": "Eliquis 5 MG Oral Tablet",
 						"tier": 3,
 						"type": "coinsurance"
 					},
 					{
-						"rxcui": "1545664",
+						"rxcui": "Jardiance 10 MG Oral Tablet",
 						"tier": 3,
 						"type": "coinsurance"
 					},
 					{
-						"rxcui": "197604",
+						"rxcui": "digoxin 125 MCG Oral Tablet",
 						"tier": 3,
 						"type": "coinsurance"
 					},
 					{
-						"rxcui": "2200650",
+						"rxcui": "RYBELSUS 14 MG Oral Tablet",
 						"tier": 3,
 						"type": "coinsurance"
 					},
 					{
-						"rxcui": "349483",
+						"rxcui": "valsartan 40 MG Oral Tablet",
 						"tier": 1,
 						"type": "copay"
 					},
 					{
-						"rxcui": "830845",
+						"rxcui": "dilTIAZem HCl 180 MG 24HR Extended Release Oral Capsule",
 						"tier": 3,
 						"type": "coinsurance"
 					},
 					{
-						"rxcui": "847232",
+						"rxcui": "Lantus 100 UNT/ML in 3 ML Pen Injector",
 						"tier": 3,
 						"type": "coinsurance"
 					},
 					{
-						"rxcui": "860975",
+						"rxcui": "metFORMIN HCl 500 MG 24HR Extended Release Oral Tablet",
 						"tier": 1,
 						"type": "copay"
 					},
 					{
-						"rxcui": "966225",
+						"rxcui": "levothyroxine sodium 150 MCG Oral Tablet",
 						"tier": 2,
 						"type": "copay"
 					}
 				],
 				"uncovered": [
-					"2167557",
-					"252857"
+					"rosuvastatin 10 MG Oral Capsule",
+					"aspirin 81 MG Oral Capsule"
 				]
 			},
 			{
@@ -21559,54 +21559,54 @@
 				"ESTIMATED_MONTHLY_COST": 213.9,
 				"covered": [
 					{
-						"rxcui": "1364447",
+						"rxcui": "Eliquis 5 MG Oral Tablet",
 						"tier": 3,
 						"type": "coinsurance"
 					},
 					{
-						"rxcui": "1545664",
+						"rxcui": "Jardiance 10 MG Oral Tablet",
 						"tier": 3,
 						"type": "coinsurance"
 					},
 					{
-						"rxcui": "197604",
+						"rxcui": "digoxin 125 MCG Oral Tablet",
 						"tier": 2,
 						"type": "copay"
 					},
 					{
-						"rxcui": "2200650",
+						"rxcui": "RYBELSUS 14 MG Oral Tablet",
 						"tier": 3,
 						"type": "coinsurance"
 					},
 					{
-						"rxcui": "349483",
+						"rxcui": "valsartan 40 MG Oral Tablet",
 						"tier": 1,
 						"type": "copay"
 					},
 					{
-						"rxcui": "830845",
+						"rxcui": "dilTIAZem HCl 180 MG 24HR Extended Release Oral Capsule",
 						"tier": 2,
 						"type": "copay"
 					},
 					{
-						"rxcui": "847232",
+						"rxcui": "Lantus 100 UNT/ML in 3 ML Pen Injector",
 						"tier": 3,
 						"type": "coinsurance"
 					},
 					{
-						"rxcui": "860975",
+						"rxcui": "metFORMIN HCl 500 MG 24HR Extended Release Oral Tablet",
 						"tier": 1,
 						"type": "copay"
 					},
 					{
-						"rxcui": "966225",
+						"rxcui": "levothyroxine sodium 150 MCG Oral Tablet",
 						"tier": 2,
 						"type": "copay"
 					}
 				],
 				"uncovered": [
-					"2167557",
-					"252857"
+					"rosuvastatin 10 MG Oral Capsule",
+					"aspirin 81 MG Oral Capsule"
 				]
 			},
 			{
@@ -22000,54 +22000,54 @@
 				"ESTIMATED_MONTHLY_COST": 71.6,
 				"covered": [
 					{
-						"rxcui": "1364447",
+						"rxcui": "Eliquis 5 MG Oral Tablet",
 						"tier": 3,
 						"type": "coinsurance"
 					},
 					{
-						"rxcui": "1545664",
+						"rxcui": "Jardiance 10 MG Oral Tablet",
 						"tier": 3,
 						"type": "coinsurance"
 					},
 					{
-						"rxcui": "197604",
+						"rxcui": "digoxin 125 MCG Oral Tablet",
 						"tier": 2,
 						"type": "copay"
 					},
 					{
-						"rxcui": "2200650",
+						"rxcui": "RYBELSUS 14 MG Oral Tablet",
 						"tier": 3,
 						"type": "coinsurance"
 					},
 					{
-						"rxcui": "349483",
+						"rxcui": "valsartan 40 MG Oral Tablet",
 						"tier": 1,
 						"type": "copay"
 					},
 					{
-						"rxcui": "830845",
+						"rxcui": "dilTIAZem HCl 180 MG 24HR Extended Release Oral Capsule",
 						"tier": 2,
 						"type": "copay"
 					},
 					{
-						"rxcui": "847232",
+						"rxcui": "Lantus 100 UNT/ML in 3 ML Pen Injector",
 						"tier": 3,
 						"type": "coinsurance"
 					},
 					{
-						"rxcui": "860975",
+						"rxcui": "metFORMIN HCl 500 MG 24HR Extended Release Oral Tablet",
 						"tier": 1,
 						"type": "copay"
 					},
 					{
-						"rxcui": "966225",
+						"rxcui": "levothyroxine sodium 150 MCG Oral Tablet",
 						"tier": 1,
 						"type": "copay"
 					}
 				],
 				"uncovered": [
-					"2167557",
-					"252857"
+					"rosuvastatin 10 MG Oral Capsule",
+					"aspirin 81 MG Oral Capsule"
 				]
 			},
 			{
@@ -22325,50 +22325,50 @@
 				"ESTIMATED_MONTHLY_COST": 111.2,
 				"covered": [
 					{
-						"rxcui": "1364447",
+						"rxcui": "Eliquis 5 MG Oral Tablet",
 						"tier": 3,
 						"type": "coinsurance"
 					},
 					{
-						"rxcui": "1545664",
+						"rxcui": "Jardiance 10 MG Oral Tablet",
 						"tier": 3,
 						"type": "coinsurance"
 					},
 					{
-						"rxcui": "197604",
+						"rxcui": "digoxin 125 MCG Oral Tablet",
 						"tier": 3,
 						"type": "coinsurance"
 					},
 					{
-						"rxcui": "349483",
+						"rxcui": "valsartan 40 MG Oral Tablet",
 						"tier": 2,
 						"type": "copay"
 					},
 					{
-						"rxcui": "830845",
+						"rxcui": "dilTIAZem HCl 180 MG 24HR Extended Release Oral Capsule",
 						"tier": 3,
 						"type": "coinsurance"
 					},
 					{
-						"rxcui": "847232",
+						"rxcui": "Lantus 100 UNT/ML in 3 ML Pen Injector",
 						"tier": 3,
 						"type": "coinsurance"
 					},
 					{
-						"rxcui": "860975",
+						"rxcui": "metFORMIN HCl 500 MG 24HR Extended Release Oral Tablet",
 						"tier": 1,
 						"type": "copay"
 					},
 					{
-						"rxcui": "966225",
+						"rxcui": "levothyroxine sodium 150 MCG Oral Tablet",
 						"tier": 1,
 						"type": "copay"
 					}
 				],
 				"uncovered": [
-					"2200650",
-					"2167557",
-					"252857"
+					"RYBELSUS 14 MG Oral Tablet",
+					"rosuvastatin 10 MG Oral Capsule",
+					"aspirin 81 MG Oral Capsule"
 				]
 			},
 			{
@@ -22646,50 +22646,50 @@
 				"ESTIMATED_MONTHLY_COST": 345.2,
 				"covered": [
 					{
-						"rxcui": "1364447",
+						"rxcui": "Eliquis 5 MG Oral Tablet",
 						"tier": 3,
 						"type": "copay"
 					},
 					{
-						"rxcui": "1545664",
+						"rxcui": "Jardiance 10 MG Oral Tablet",
 						"tier": 3,
 						"type": "copay"
 					},
 					{
-						"rxcui": "197604",
+						"rxcui": "digoxin 125 MCG Oral Tablet",
 						"tier": 2,
 						"type": "copay"
 					},
 					{
-						"rxcui": "349483",
+						"rxcui": "valsartan 40 MG Oral Tablet",
 						"tier": 2,
 						"type": "copay"
 					},
 					{
-						"rxcui": "830845",
+						"rxcui": "dilTIAZem HCl 180 MG 24HR Extended Release Oral Capsule",
 						"tier": 2,
 						"type": "copay"
 					},
 					{
-						"rxcui": "847232",
+						"rxcui": "Lantus 100 UNT/ML in 3 ML Pen Injector",
 						"tier": 3,
 						"type": "copay"
 					},
 					{
-						"rxcui": "860975",
+						"rxcui": "metFORMIN HCl 500 MG 24HR Extended Release Oral Tablet",
 						"tier": 1,
 						"type": "copay"
 					},
 					{
-						"rxcui": "966225",
+						"rxcui": "levothyroxine sodium 150 MCG Oral Tablet",
 						"tier": 1,
 						"type": "copay"
 					}
 				],
 				"uncovered": [
-					"2200650",
-					"2167557",
-					"252857"
+					"RYBELSUS 14 MG Oral Tablet",
+					"rosuvastatin 10 MG Oral Capsule",
+					"aspirin 81 MG Oral Capsule"
 				]
 			},
 			{
@@ -22967,50 +22967,50 @@
 				"ESTIMATED_MONTHLY_COST": 100,
 				"covered": [
 					{
-						"rxcui": "1364447",
+						"rxcui": "Eliquis 5 MG Oral Tablet",
 						"tier": 3,
 						"type": "coinsurance"
 					},
 					{
-						"rxcui": "1545664",
+						"rxcui": "Jardiance 10 MG Oral Tablet",
 						"tier": 3,
 						"type": "coinsurance"
 					},
 					{
-						"rxcui": "197604",
+						"rxcui": "digoxin 125 MCG Oral Tablet",
 						"tier": 3,
 						"type": "coinsurance"
 					},
 					{
-						"rxcui": "349483",
+						"rxcui": "valsartan 40 MG Oral Tablet",
 						"tier": 2,
 						"type": "copay"
 					},
 					{
-						"rxcui": "830845",
+						"rxcui": "dilTIAZem HCl 180 MG 24HR Extended Release Oral Capsule",
 						"tier": 2,
 						"type": "copay"
 					},
 					{
-						"rxcui": "847232",
+						"rxcui": "Lantus 100 UNT/ML in 3 ML Pen Injector",
 						"tier": 3,
 						"type": "coinsurance"
 					},
 					{
-						"rxcui": "860975",
+						"rxcui": "metFORMIN HCl 500 MG 24HR Extended Release Oral Tablet",
 						"tier": 1,
 						"type": "copay"
 					},
 					{
-						"rxcui": "966225",
+						"rxcui": "levothyroxine sodium 150 MCG Oral Tablet",
 						"tier": 1,
 						"type": "copay"
 					}
 				],
 				"uncovered": [
-					"2200650",
-					"2167557",
-					"252857"
+					"RYBELSUS 14 MG Oral Tablet",
+					"rosuvastatin 10 MG Oral Capsule",
+					"aspirin 81 MG Oral Capsule"
 				]
 			},
 			{
@@ -23259,50 +23259,50 @@
 				"ESTIMATED_MONTHLY_COST": 158.8,
 				"covered": [
 					{
-						"rxcui": "1364447",
+						"rxcui": "Eliquis 5 MG Oral Tablet",
 						"tier": 3,
 						"type": "coinsurance"
 					},
 					{
-						"rxcui": "1545664",
+						"rxcui": "Jardiance 10 MG Oral Tablet",
 						"tier": 3,
 						"type": "coinsurance"
 					},
 					{
-						"rxcui": "197604",
+						"rxcui": "digoxin 125 MCG Oral Tablet",
 						"tier": 2,
 						"type": "copay"
 					},
 					{
-						"rxcui": "349483",
+						"rxcui": "valsartan 40 MG Oral Tablet",
 						"tier": 2,
 						"type": "copay"
 					},
 					{
-						"rxcui": "830845",
+						"rxcui": "dilTIAZem HCl 180 MG 24HR Extended Release Oral Capsule",
 						"tier": 3,
 						"type": "coinsurance"
 					},
 					{
-						"rxcui": "847232",
+						"rxcui": "Lantus 100 UNT/ML in 3 ML Pen Injector",
 						"tier": 3,
 						"type": "coinsurance"
 					},
 					{
-						"rxcui": "860975",
+						"rxcui": "metFORMIN HCl 500 MG 24HR Extended Release Oral Tablet",
 						"tier": 1,
 						"type": "copay"
 					},
 					{
-						"rxcui": "966225",
+						"rxcui": "levothyroxine sodium 150 MCG Oral Tablet",
 						"tier": 1,
 						"type": "copay"
 					}
 				],
 				"uncovered": [
-					"2200650",
-					"2167557",
-					"252857"
+					"RYBELSUS 14 MG Oral Tablet",
+					"rosuvastatin 10 MG Oral Capsule",
+					"aspirin 81 MG Oral Capsule"
 				]
 			},
 			{
@@ -23551,54 +23551,54 @@
 				"ESTIMATED_MONTHLY_COST": 383.4,
 				"covered": [
 					{
-						"rxcui": "1364447",
+						"rxcui": "Eliquis 5 MG Oral Tablet",
 						"tier": 3,
 						"type": "copay"
 					},
 					{
-						"rxcui": "1545664",
+						"rxcui": "Jardiance 10 MG Oral Tablet",
 						"tier": 3,
 						"type": "copay"
 					},
 					{
-						"rxcui": "197604",
+						"rxcui": "digoxin 125 MCG Oral Tablet",
 						"tier": 2,
 						"type": "copay"
 					},
 					{
-						"rxcui": "2200650",
+						"rxcui": "RYBELSUS 14 MG Oral Tablet",
 						"tier": 3,
 						"type": "copay"
 					},
 					{
-						"rxcui": "349483",
+						"rxcui": "valsartan 40 MG Oral Tablet",
 						"tier": 2,
 						"type": "copay"
 					},
 					{
-						"rxcui": "830845",
+						"rxcui": "dilTIAZem HCl 180 MG 24HR Extended Release Oral Capsule",
 						"tier": 2,
 						"type": "copay"
 					},
 					{
-						"rxcui": "847232",
+						"rxcui": "Lantus 100 UNT/ML in 3 ML Pen Injector",
 						"tier": 3,
 						"type": "copay"
 					},
 					{
-						"rxcui": "860975",
+						"rxcui": "metFORMIN HCl 500 MG 24HR Extended Release Oral Tablet",
 						"tier": 1,
 						"type": "copay"
 					},
 					{
-						"rxcui": "966225",
+						"rxcui": "levothyroxine sodium 150 MCG Oral Tablet",
 						"tier": 1,
 						"type": "copay"
 					}
 				],
 				"uncovered": [
-					"2167557",
-					"252857"
+					"rosuvastatin 10 MG Oral Capsule",
+					"aspirin 81 MG Oral Capsule"
 				]
 			}
 		]
